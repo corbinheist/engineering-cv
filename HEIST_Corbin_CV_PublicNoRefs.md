@@ -1,6 +1,6 @@
 # [Corbin Heist](http://corbinheist.com/)
 
-Oxford, UK & Columbus, Ohio USA | +44 (0) 7557 807 462 **OR** +1 (336) 803 9230 | contact@corbinheist.com
+Oxford, UK & Columbus, Ohio USA | Mobile Available Upon Request | contact@corbinheist.com
 
 ## Profile
 
