@@ -193,7 +193,7 @@ Winston Salem, North Carolina, USA
 * (Advanced) Motorsport Strategy, Tactics, and Analysis Tool Development
 * (Advanced) Vehicle Dynamics and Simulation
 * (Advanced) Network Administration, Computer Setup/Build, General Technology Fluency
-* (Advenaced-Beginner) Git
+* (Advanced-Beginner) Git
 * Technical Reporting
 * Engineering and Project Management
 
