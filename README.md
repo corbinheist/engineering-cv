@@ -48,16 +48,19 @@ Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
 ## Motorsport Experience
 
 ---
+### Software Engineer : HH Development Limited
+
+#### *January 2019 - May 2019*
 
 ### Assistant Race Engineer: Meyer Shank Racing
 
-#### *November 2017 - Current*
+#### *November 2017 - November 2018*
 
-* Full Time Position, based in Columbus, OH with Extensive travel for Tests & Race Events
+* Full Time Position with Extensive travel for Tests & Race Events
 * IndyCar and IMSA (NSX GT3) Sportscar Championships
 * Manage and Develop control systems strategies and configuration
 * Work Closely with Race Engineer to assess and analyse Vehicle Performance
-* Validate and analyse large datasets from multiple sources
+* Validate and analyse large datasets
 * Devlelop Library of Key Performance Indicators
 * Conduct Exploratory and Deep Dive Data Analysis using Python and Bosch WinDarab Suite
 * Realtime Race Strategy, Tactics, and Analysis Including:
@@ -65,19 +68,14 @@ Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
   * Fuel Strategy
 * Lead Data Acquisition and Systems Engineer for 2019 NSX GT3 Testing and Development
 
-### Performance Engineer: Audi Sport ISR
+### Control Systems and Performance Engineer: Audi Sport ISR, Tockwith Motorsports LMP2, Gruppe M Racing (BGT Asia), Greaves Motorsport LMP2 (European Le Mans Series)
 
-#### *Blancpain Spa 24H 2017*
+#### December 2015 - October 2017
 
 * Work Closely with Race Engineer to assess and analyse Vehicle Performance
 * Liase with Audi Sport Engineers on Setup Options, Data Analysis, and Event Strategy
 * Produce and Analyse Key Performance Indicators
-* Realtime Race Strategy, Tactics, and Analysis. Responsible for Fuel Mileage and Drive-Time strategies.
-
-### Systems and Performance Engineer : Tockwith Motorsports LMP2
-
-#### *March 2017 – July 2017*
-
+* Realtime Race Strategy, Tactics, and Analysis. Responsible for Fuel Mileage and Drive-Time strategies
 * Ligier LMP217 competing in select WEC rounds, LM24, and ELMS Championship
 * Vehicle Performance Analysis and liaison with Race Engineer on Vehicle Setup and Strategy
 * Track, Develop, and Analyse Key Performance Indicators
@@ -87,19 +85,9 @@ Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
 * Network Admin and Develop Systems to manage large amounts of Data
 * Manage 4G Cloud-Based Telemetry Systems and Interface with Network
 * Manage and Maintain Engineering Office Hardware and Software packages
-
-### Systems and Performance Engineer: Gruppe M Racing
-
-#### *March 2017 – September 2017*
-
 * Mercedes AMG GT3 Team Champions (2017) in Blancpain GT Asia Series
 * Responsible for Data, Systems, and Performance Analysis of 2 Mercedes AMG GT3
 * Competitor and Strategy Analysis
-
-### Systems and Performance Engineer: Greaves Motosport
-
-#### *January 2016- January 2017*
-
 * European Le Mans Series and Le Mans 24H
 * Setup, Maintain, and Improve Electrical, Network, and Data/Telemetry Systems on Ligier JS-P2
 * Debrief Drivers and support driver development with Data and Simulator work
@@ -191,18 +179,18 @@ Winston Salem, North Carolina, USA
 * (Advanced) Motorsport Strategy, Tactics, and Analysis Tool Development
 * (Advanced) Vehicle Dynamics and Simulation
 * (Advanced) Network Administration, Computer Setup/Build, General Technology Fluency
-* (Beginner) Git
+* (Advenaced-Beginner) Git
 * Technical Reporting
-* Engineering Management
+* Engineering and Project Management
 
 ## Personal Interests
 
 ---
 
 * Mountaineering & Climbing
+* Photography
 * Hiking, Camping, Backcountry Adventures
 * High Performance Computing, Data Science/Engineering, and Technology Innovation
-* [Data Hoarding](https://www.reddit.com/r/DataHoarder/)
 * Free and Open Source (FOSS) Technology
 
 ## References
