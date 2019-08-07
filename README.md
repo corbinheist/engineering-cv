@@ -12,40 +12,7 @@ Seattle, WA | Mobile Available Upon Request | contact@corbinheist.com
 * Data Analysis and Processing using most Analysis Packages: MOTEC, PI/Cosworth, BOSCH, bespoke tools in Python, MATLAB, and Excel.
 * Strong understanding of Vehicle Dynamics and Simulation techniques and packages.
 
-## Education
-
----
-
-### BEng (Hons) Motorsport Engineering - Oxford Brookes University
-
-Oxford, United Kingdom (September 2013- December 2017) – Degree Class Pending
-
-#### Unique Projects
-
-#### *“Stability and Control Analysis of a LMP2 Sportscar Prototype”* (Mark: A+)
-
-* Final Year Dissertation-Project, in cooperation with Greaves Motorsport.
-* Develop a MATLAB toolset for Yaw-Moment Analysis- to identify Key Performance Indicators for Stability, Control, and Performance of an LMP2 Sportscar.
-* Utilise Key Performance Indicators to investigate the sensitivity of vehicle setup changes to Stability, Control, and Performance.
-* Further Develop a methodology for tracking and correlating vehicle setup to vehicle performance and driver comments
-
-#### “Design Study: LMP2 Coupe Front Suspension’’ (Mark: A+)
-
-* Working with Gibson Technology- Responsible for conceptual design and analysis of an LMP2 front suspension.
-* Used MATLAB based tools and OptimumK to achieve target key performance indicators.
-
-#### “Vehicle Performance Analysis using MATLAB” (Mark: A+)
-
-* Created MATLAB steady state laptime simulation
-* Created MATLAB based tool and GUI for exploring Load Transfer Effects
-* Used Lapsim and Cornering Models to objectively evaluate vehicle configurations.
-* Created Virtual 4 post rig simulation using linear state space model, validated using OBR 4 post rig data, and Developed Key Performance Indicators to drive damping optimisation tools.
-
-### Associates of Science (Motorsport Technology) - Forsyth Technical Community College
-
-Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
-
-## Motorsport Experience
+## Professional Experience
 
 ---
 
@@ -176,15 +143,44 @@ Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
 
 #### *2012-2013*
 
-## Additional Education
+## Education
 
 ---
+
+### BEng (Hons) Motorsport Engineering - Oxford Brookes University
+
+Oxford, United Kingdom (September 2013- December 2017) – Degree Class Pending
+
+#### Unique Projects
+
+#### *“Stability and Control Analysis of a LMP2 Sportscar Prototype”*
+
+* Final Year Dissertation-Project, in cooperation with Greaves Motorsport.
+* Develop a MATLAB toolset for Yaw-Moment Analysis- to identify Key Performance Indicators for Stability, Control, and Performance of an LMP2 Sportscar.
+* Utilise Key Performance Indicators to investigate the sensitivity of vehicle setup changes to Stability, Control, and Performance.
+* Further Develop a methodology for tracking and correlating vehicle setup to vehicle performance and driver comments
+
+#### “Design Study: LMP2 Coupe Front Suspension’’
+
+* Working with Gibson Technology- Responsible for conceptual design and analysis of an LMP2 front suspension.
+* Used MATLAB based tools and OptimumK to achieve target key performance indicators.
+
+#### “Vehicle Performance Analysis using MATLAB”
+
+* Created MATLAB steady state laptime simulation
+* Created MATLAB based tool and GUI for exploring Load Transfer Effects
+* Used Lapsim and Cornering Models to objectively evaluate vehicle configurations.
+* Created Virtual 4 post rig simulation using linear state space model, validated using OBR 4 post rig data, and Developed Key Performance Indicators to drive damping optimisation tools.
+
+### Associates of Science (Motorsport Technology) - Forsyth Technical Community College
+
+Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
 
 ### Associates of Science (Motorsport Technology): Forsyth Technical Community College
 
 #### *August 2011-May 2013* (3.5 GPA)
 
-Winston Salem, North Carolina, USA 
+Winston Salem, North Carolina, USA
 
 ---
 
