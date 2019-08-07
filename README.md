@@ -1,6 +1,6 @@
 # [Corbin Heist](http://corbinheist.com/)
 
-Seattle, WA | Mobile Available Upon Request | contact@corbinheist.com
+Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 ## Profile
 
@@ -211,4 +211,4 @@ Winston Salem, North Carolina, USA
 
 ---
 
-References Available upon request
+References Available upon [request](mailto:contact@corbinheist.com)
