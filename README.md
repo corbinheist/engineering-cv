@@ -149,7 +149,7 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
 
 ### BEng (Hons) Motorsport Engineering - Oxford Brookes University
 
-Oxford, United Kingdom (September 2013- December 2017) – Degree Class Pending
+Oxford, United Kingdom (September 2013- December 2017)
 
 #### Unique Projects
 
