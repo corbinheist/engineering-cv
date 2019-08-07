@@ -41,7 +41,7 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
   * Fuel Strategy
 * Data Acquisition and Systems Engineer for 2019 NSX GT3 Evo Testing and Development (Seconded to Honda Performance Development)
 
-### Control Systems and Performance Engineer: Audi Sport ISR, Tockwith Motorsports LMP2, Gruppe M Racing, Greaves Motorsport LMP2
+### Control Systems and Performance Engineer: Freelance Engineer
 
 #### December 2015 - October 2017
 
