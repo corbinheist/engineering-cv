@@ -1,13 +1,13 @@
 # [Corbin Heist](http://corbinheist.com/)
 
-Oxford, UK & Columbus, Ohio USA | Mobile Available Upon Request | contact@corbinheist.com
+Seattle, WA | Mobile Available Upon Request | contact@corbinheist.com
 
 ## Profile
 
 ---
 
 * Dual USA and UK National
-* Proven Motorsport professional, Experience in LMP and GT racing categories.
+* Proven Motorsport professional, Experience in Prototype, Open Wheel, and GT racing categories.
 * Strong analytical skills using MATLAB, Excel, and Data Visualisation Software to identify performance trends using approaches derived from Data Science and Statistics.
 * Data Analysis and Processing using most Analysis Packages: MOTEC, PI/Cosworth, BOSCH, bespoke tools in Python, MATLAB, and Excel.
 * Strong understanding of Vehicle Dynamics and Simulation techniques and packages.
@@ -48,9 +48,15 @@ Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
 ## Motorsport Experience
 
 ---
+
 ### Software Engineer : HH Development Limited
 
 #### *January 2019 - May 2019*
+
+* Motorsport Data Management Software Development
+* Software Engineering Workflows
+* Customer Support and Liason
+* Small Team, Remote work
 
 ### Assistant Race Engineer: Meyer Shank Racing
 
@@ -60,41 +66,52 @@ Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
 * IndyCar and IMSA (NSX GT3) Sportscar Championships
 * Manage and Develop control systems strategies and configuration
 * Work Closely with Race Engineer to assess and analyse Vehicle Performance
-* Validate and analyse large datasets
-* Devlelop Library of Key Performance Indicators
+* Develop Library of Key Performance Indicators
+* Validate and analyse large datasets, Develop data lake and pipeline for data from Timing Provider, Onboard Data Logging, Online Resources.
 * Conduct Exploratory and Deep Dive Data Analysis using Python and Bosch WinDarab Suite
 * Realtime Race Strategy, Tactics, and Analysis Including:
   * Tyre Degradation & Performance
   * Fuel Strategy
-* Lead Data Acquisition and Systems Engineer for 2019 NSX GT3 Testing and Development
+* Data Acquisition and Systems Engineer for 2019 NSX GT3 Evo Testing and Development (Seconded to Honda Performance Development)
 
-### Control Systems and Performance Engineer: Audi Sport ISR, Tockwith Motorsports LMP2, Gruppe M Racing (BGT Asia), Greaves Motorsport LMP2 (European Le Mans Series)
+### Control Systems and Performance Engineer: Audi Sport ISR, Tockwith Motorsports LMP2, Gruppe M Racing, Greaves Motorsport LMP2
 
 #### December 2015 - October 2017
 
-* Work Closely with Race Engineer to assess and analyse Vehicle Performance
-* Liase with Audi Sport Engineers on Setup Options, Data Analysis, and Event Strategy
-* Produce and Analyse Key Performance Indicators
-* Realtime Race Strategy, Tactics, and Analysis. Responsible for Fuel Mileage and Drive-Time strategies
-* Ligier LMP217 competing in select WEC rounds, LM24, and ELMS Championship
-* Vehicle Performance Analysis and liaison with Race Engineer on Vehicle Setup and Strategy
-* Track, Develop, and Analyse Key Performance Indicators
-* Debrief and Analyse Driver Performance
-* Competitor and Strategy Analysis using bespoke and commercial strategy tools
-* Setup and Maintain Electronic Configs and Datasets, and Team Setup and Data – Databases
-* Network Admin and Develop Systems to manage large amounts of Data
-* Manage 4G Cloud-Based Telemetry Systems and Interface with Network
-* Manage and Maintain Engineering Office Hardware and Software packages
-* Mercedes AMG GT3 Team Champions (2017) in Blancpain GT Asia Series
-* Responsible for Data, Systems, and Performance Analysis of 2 Mercedes AMG GT3
-* Competitor and Strategy Analysis
-* European Le Mans Series and Le Mans 24H
-* Setup, Maintain, and Improve Electrical, Network, and Data/Telemetry Systems on Ligier JS-P2
+* Support Lead Race Engineer with Data Analysis using Data Visualisation and KPI Reporting
+* Liase with Engineers on Setup Options, Data Analysis/ Reports, and Event Strategy
+* Responsible for: Realtime Race Strategy, Tactics, and Analysis.
+* Responsible for Fuel Mileage and Drive-Time strategies.
+* Report on and Analyse Key Performance Indicators, Onboard Performance and Reliability Data
 * Debrief Drivers and support driver development with Data and Simulator work
-* Support Race Engineer with Data Analysis using Data Visualisation and KPI Techniques
-* Produce and Analyse KPI and Timing reports to supplement event reports.
-* Apply Engineering methodology to validation of Data and Sensor systems
-* Setup and Maintain local area network and server system
+
+##### Performance:
+
+* Produce Pre-Event Report, Race-Simulations
+* Track, Develop, and Analyse Key Performance Indicators
+* Competitor and Strategy Analysis using bespoke and commercial strategy tools
+
+##### Control Systems:
+
+* Calibrate and Maintain onboard control systems, sensors, and data logging equipment
+* Prepare, calibrate, and validate additional sensors for dedicated testing.
+* Setup and Maintain Electronic Control System Configuration and Datasets, and Team Setup and Data – Databases
+
+##### Other Responsibilities:
+
+* Network Administration and Develop Systems to manage large datasets
+* Setup, Maintain, and Improve Electrical, Network, and Data/Telemetry Systems
+* Manage and Maintain Engineering Office Hardware and Software packages
+
+#### Client Summary
+
+| Teams| Cars| Championships|
+|----------|-----|-|
+| Audi Sport ISR | Audi R8 GT3 | Blancpain GT |
+| Tockwith Motorsport | Ligier JSP217 LMP2 | European Le Mans Series + Le Mans 24h + Selected World Endurance Championship Rounds |
+| Gruppe M Racing | Mercedes AMG GT3 | Blancpain GT Asia |
+| Private F3 Testing | Euroformula F3 | Euroformula |
+| Greaves Motorsport | Ligier JSP2 LMP2 | European Le Mans Series + Le Mans 24h  |
 
 ### Junior Performance Engineer: Greaves Motosport
 
@@ -103,6 +120,7 @@ Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
 * Develop metrics to measure Driver and Car performance.
 * Data Analysis using PI Toolbox
 * Development of Race Strategy and Engineering tools.
+* Driver Development through Data Analysis
 
 ### Greaves 3D Engineering Engineer (Summer Placement)
 
