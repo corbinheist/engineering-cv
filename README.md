@@ -22,9 +22,13 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
 #### *January 2019 - May 2019*
 
 * Motorsport Data Management Software Development
-* Software Engineering Workflows (Agile Development Process)
+* Software Engineering Project Management Workflows using Jira, Git/Sourcetree, Basecamp (Agile Development Process)
 * Customer Support and Liason - including remote trackside support of tests and races.
 * Small Team, Remote work
+* Object Oriented Programming
+* .NET Desktop application development
+* Database Technologies - SQL Server & SQLite
+* Source Control - Git
 
 ### Assistant Race Engineer: Meyer Shank Racing
 
@@ -203,8 +207,8 @@ Winston Salem, North Carolina, USA
 
 ---
 
-* Mountaineering & Alpine Rock Climbing
-* Adventure and High Angle Photography
+* [Mountaineering & Alpine Rock Climbing](https://www.instagram.com/explore/tags/corbinclimbs/)
+* [Travel, Adventure, and High Angle Photography](https://www.instagram.com/corbin.roams/)
 * High Performance Computing, Data Science/Engineering, and Innovation in Technology
 * Free and Open Source Technology, Linux
 * Home/Edge High Performance Computing
