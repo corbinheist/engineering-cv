@@ -25,10 +25,9 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
 * Software Engineering Project Management Workflows using Jira, Git/Sourcetree, Basecamp (Agile Development Process)
 * Customer Support and Liason - including remote trackside support of tests and races.
 * Small Team, Remote work
-* Object Oriented Programming
-* .NET Desktop application development
+* Object Oriented Programming using .NET Desktop application development
 * Database Technologies - SQL Server & SQLite
-* Source Control - Git
+* Source Control - Git/Sourcetree
 
 ### Assistant Race Engineer: Meyer Shank Racing
 
