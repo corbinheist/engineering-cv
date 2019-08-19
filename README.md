@@ -11,6 +11,7 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
 * Strong analytical skills using MATLAB, Excel, and Data Visualisation Software to identify performance trends using approaches derived from Data Science and Statistics.
 * Data Analysis and Processing using most Analysis Packages: MOTEC, PI/Cosworth, BOSCH, bespoke tools in Python, MATLAB, and Excel.
 * Strong understanding of Vehicle Dynamics and Simulation techniques and packages.
+* Interest in Data Science & Analytics, High Performance Computing, and Open Source Technology
 
 ## Professional Experience
 
@@ -21,8 +22,8 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
 #### *January 2019 - May 2019*
 
 * Motorsport Data Management Software Development
-* Software Engineering Workflows
-* Customer Support and Liason
+* Software Engineering Workflows (Agile Development Process)
+* Customer Support and Liason - including remote trackside support of tests and races.
 * Small Team, Remote work
 
 ### Assistant Race Engineer: Meyer Shank Racing
@@ -43,7 +44,7 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
 
 ### Control Systems and Performance Engineer: Freelance Engineer
 
-#### December 2015 - October 2017
+#### *December 2015 - October 2017*
 
 * Support Lead Race Engineer with Data Analysis using Data Visualisation and KPI Reporting
 * Liase with Engineers on Setup Options, Data Analysis/ Reports, and Event Strategy
@@ -84,7 +85,7 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
 
 #### *June 2015 – January 2016*
 
-* Develop metrics to measure Driver and Car performance.
+* Develop key performance indicators to measure Driver, Car, and Team performance.
 * Data Analysis using PI Toolbox
 * Development of Race Strategy and Engineering tools.
 * Driver Development through Data Analysis
@@ -162,14 +163,15 @@ Oxford, United Kingdom (September 2013- December 2017)
 
 #### “Design Study: LMP2 Coupe Front Suspension’’
 
-* Working with Gibson Technology- Responsible for conceptual design and analysis of an LMP2 front suspension.
+* Responsible for conceptual design and analysis of an LMP2 front suspension.
 * Used MATLAB based tools and OptimumK to achieve target key performance indicators.
+* Industrial Connection to Gibson Technology - concept studies for 2017 LMP2 Chassis.
 
 #### “Vehicle Performance Analysis using MATLAB”
 
 * Created MATLAB steady state laptime simulation
 * Created MATLAB based tool and GUI for exploring Load Transfer Effects
-* Used Lapsim and Cornering Models to objectively evaluate vehicle configurations.
+* Used Lapsim and Cornering Models to objectively evaluate vehicle configurations using Key Performance Indicators.
 * Created Virtual 4 post rig simulation using linear state space model, validated using OBR 4 post rig data, and Developed Key Performance Indicators to drive damping optimisation tools.
 
 ### Associates of Science (Motorsport Technology) - Forsyth Technical Community College
@@ -201,11 +203,11 @@ Winston Salem, North Carolina, USA
 
 ---
 
-* Mountaineering & Climbing
-* Photography
-* Hiking, Camping, Backcountry Adventures
-* High Performance Computing, Data Science/Engineering, and Technology Innovation
-* Free and Open Source (FOSS) Technology
+* Mountaineering & Alpine Rock Climbing
+* Adventure and High Angle Photography
+* High Performance Computing, Data Science/Engineering, and Innovation in Technology
+* Free and Open Source Technology, Linux
+* Home/Edge High Performance Computing
 
 ## References
 
