@@ -1,13 +1,13 @@
 # [Corbin Heist](http://corbinheist.com/)
 
-Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
+Seattle, WA | (336) 803 - 9230 | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 ## Profile
 
 ---
 
 * Dual USA and UK National
-* Proven Motorsport professional, Experience in Prototype, Open Wheel, and GT racing categories.
+* Proven Motorsport professional, Experience in International Prototype, Open Wheel, and GT racing categories.
 * Strong analytical skills using MATLAB, Excel, and Data Visualisation Software to identify performance trends using approaches derived from Data Science and Statistics.
 * Data Analysis and Processing using most Analysis Packages: MOTEC, PI/Cosworth, BOSCH, bespoke tools in Python, MATLAB, and Excel.
 * Strong understanding of Vehicle Dynamics and Simulation techniques and packages.
@@ -104,23 +104,13 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
 
 #### *June 2015 - 24H Le Mans*
 
-* Liase with Michelin Service Engineers for tyre fitting and quality control
-* Assist Tyre Technicians with garage build, setup, and tyre management
-* *Additional Role: 2013 12H Sebring – Refuelling Team (Fireman)
-
 ### Data and Mechanic: BMW Club Racing
 
 #### *2011-2013*
 
-* Support of mechanical and data systems.
-* Driver and Car Development using AIM Race Studio
-
 ### Junior Mechanic and Track Support: Korman Autoworks 
 
 #### *2009- 2013*
-
-* Vintage BMW Restoration and Engine Build and Trackside Customer Support
-* Component Sub-Assembly
 
 ## Additional Motorsport and Engineering Qualifications
 
@@ -128,20 +118,15 @@ Seattle, WA | Mobile Available Upon Request | [Contact@Corbinheist.com](mailto:c
 
 ### MIA Winter School of Race Engineering Oxford, UK December 2012
 
-* A course designed to bridge the gap between formal education and work in the motorsport industry. Taught by engineers currently working in LMP1 and World Series by Renault.
-
 ### Optimum G Applied Vehicle Dynamics Birmingham, UK January 2017
 
-* A vehicle dynamics course, focusing on the application and understanding of the aspects of vehicle dynamics fundamental to Motorsport.
-
 ### Optimum G Data Driven Performance Engineering Birmingham, UK January 2017
-
-* Building on Applied Vehicle Dynamics, this Seminar covers the methodologies and use of data, and how to efficiently utilise that data to make rapid engineering and data-driven decisions to improve the performance of a vehicle.
-* P1 in Optimum Lap Championship, a laptime simulation competition between attendees of the seminar. Each competitor was given a budget to spend on Aerodynamic, Engine, Tyre, and Chassis development, and Optimum lap was used to simulate the field.
 
 ## Other Work Experience
 
 ---
+
+### Arc'Teryx Seattle Brand Store - Product Guide
 
 ### Blue Force Technology Composite Manufacturing Apprentice
 
@@ -198,7 +183,7 @@ Winston Salem, North Carolina, USA
 * (Advanced) Motorsport Strategy, Tactics, and Analysis Tool Development
 * (Advanced) Vehicle Dynamics and Simulation
 * (Advanced) Network Administration, Computer Setup/Build, General Technology Fluency
-* (Advanced-Beginner) Git
+* (Advanced-Entry Level) Git, Database/Data Engineering, AGILE Development Processes
 * Technical Reporting
 * Engineering and Project Management
 
@@ -207,6 +192,7 @@ Winston Salem, North Carolina, USA
 ---
 
 * [Mountaineering & Alpine Rock Climbing](https://www.instagram.com/explore/tags/corbinclimbs/)
+  * [Climbing CV and Qualifications](link)
 * [Travel, Adventure, and High Angle Photography](https://www.instagram.com/corbin.roams/)
 * High Performance Computing, Data Science/Engineering, and Innovation in Technology
 * Free and Open Source Technology, Linux
