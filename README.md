@@ -33,28 +33,26 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 #### *November 2017 - November 2018*
 
-* Full Time Position with Extensive travel for Tests & Race Events
-* IndyCar and IMSA (NSX GT3) Sportscar Championships
-* Manage and Develop control systems strategies and configuration
-* Work Closely with Race Engineer to assess and analyse Vehicle Performance
-* Develop Library of Key Performance Indicators
-* Validate and analyse large datasets, Develop data lake and pipeline for data from Timing Provider, Onboard Data Logging, Online Resources.
-* Conduct Exploratory and Deep Dive Data Analysis using Python and Bosch WinDarab Suite
-* Realtime Race Strategy, Tactics, and Analysis Including:
-  * Tyre Degradation & Performance
-  * Fuel Strategy
-* Data Acquisition and Systems Engineer for 2019 NSX GT3 Evo Testing and Development (Seconded to Honda Performance Development)
-
-### Control Systems and Performance Engineer: Freelance Engineer
+### Control Systems and Performance Engineer: Motorsport
 
 #### *December 2015 - October 2017*
 
 * Support Lead Race Engineer with Data Analysis using Data Visualisation and KPI Reporting
 * Liase with Engineers on Setup Options, Data Analysis/ Reports, and Event Strategy
-* Responsible for: Realtime Race Strategy, Tactics, and Analysis.
-* Responsible for Fuel Mileage and Drive-Time strategies.
+* Responsible for: Realtime Race Strategy, Tactics, and Data Analysis across all cars.
 * Report on and Analyse Key Performance Indicators, Onboard Performance and Reliability Data
 * Debrief Drivers and support driver development with Data and Simulator work
+
+#### Client Summary
+
+| Teams| Cars| Championships|
+|----------|-----|-|
+| Meyer-Shank Racing | Acura NSX GT3 / Dallara IndyCar | IMSA Sportscar Championship + IndyCar|
+| Audi Sport ISR | Audi R8 GT3 | Blancpain GT |
+| Tockwith Motorsport | Ligier JSP217 LMP2 | European Le Mans Series + Le Mans 24h + Selected World Endurance Championship Rounds |
+| Gruppe M Racing | Mercedes AMG GT3 | Blancpain GT Asia |
+| Private F3 Testing | Euroformula F3 | Euroformula |
+| Greaves Motorsport | Ligier JSP2 LMP2 | European Le Mans Series + Le Mans 24h  |
 
 ##### Performance:
 
@@ -74,31 +72,13 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 * Setup, Maintain, and Improve Electrical, Network, and Data/Telemetry Systems
 * Manage and Maintain Engineering Office Hardware and Software packages
 
-#### Client Summary
-
-| Teams| Cars| Championships|
-|----------|-----|-|
-| Audi Sport ISR | Audi R8 GT3 | Blancpain GT |
-| Tockwith Motorsport | Ligier JSP217 LMP2 | European Le Mans Series + Le Mans 24h + Selected World Endurance Championship Rounds |
-| Gruppe M Racing | Mercedes AMG GT3 | Blancpain GT Asia |
-| Private F3 Testing | Euroformula F3 | Euroformula |
-| Greaves Motorsport | Ligier JSP2 LMP2 | European Le Mans Series + Le Mans 24h  |
-
 ### Junior Performance Engineer: Greaves Motosport
 
 #### *June 2015 – January 2016*
 
-* Develop key performance indicators to measure Driver, Car, and Team performance.
-* Data Analysis using PI Toolbox
-* Development of Race Strategy and Engineering tools.
-* Driver Development through Data Analysis
-
 ### Greaves 3D Engineering Engineer (Summer Placement)
 
 #### *June 2015- September 2015*
-
-* Develop existing products to improve manufacturing processes and reduce costs
-* Conceptualise and Develop concepts for new products for consumer and bespoke applications
 
 ### Junior Tyre Technician: Rebellion Racing
 
@@ -144,33 +124,13 @@ Oxford, United Kingdom (September 2013- December 2017)
 
 #### *“Stability and Control Analysis of a LMP2 Sportscar Prototype”*
 
-* Final Year Dissertation-Project, in cooperation with Greaves Motorsport.
-* Develop a MATLAB toolset for Yaw-Moment Analysis- to identify Key Performance Indicators for Stability, Control, and Performance of an LMP2 Sportscar.
-* Utilise Key Performance Indicators to investigate the sensitivity of vehicle setup changes to Stability, Control, and Performance.
-* Further Develop a methodology for tracking and correlating vehicle setup to vehicle performance and driver comments
-
 #### “Design Study: LMP2 Coupe Front Suspension’’
 
-* Responsible for conceptual design and analysis of an LMP2 front suspension.
-* Used MATLAB based tools and OptimumK to achieve target key performance indicators.
-* Industrial Connection to Gibson Technology - concept studies for 2017 LMP2 Chassis.
-
 #### “Vehicle Performance Analysis using MATLAB”
-
-* Created MATLAB steady state laptime simulation
-* Created MATLAB based tool and GUI for exploring Load Transfer Effects
-* Used Lapsim and Cornering Models to objectively evaluate vehicle configurations using Key Performance Indicators.
-* Created Virtual 4 post rig simulation using linear state space model, validated using OBR 4 post rig data, and Developed Key Performance Indicators to drive damping optimisation tools.
-
-### Associates of Science (Motorsport Technology) - Forsyth Technical Community College
-
-Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
 
 ### Associates of Science (Motorsport Technology): Forsyth Technical Community College
 
 #### *August 2011-May 2013* (3.5 GPA)
-
-Winston Salem, North Carolina, USA
 
 ---
 
@@ -196,7 +156,6 @@ Winston Salem, North Carolina, USA
 * [Travel, Adventure, and High Angle Photography](https://www.instagram.com/corbin.roams/)
 * High Performance Computing, Data Science/Engineering, and Innovation in Technology
 * Free and Open Source Technology, Linux
-* Home/Edge High Performance Computing
 
 ## References
 
