@@ -2,17 +2,6 @@
 
 Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
-## Profile
-
----
-
-* Dual USA and UK National
-* Proven Motorsport professional, Experience in International Prototype, Open Wheel, and GT racing categories.
-* Strong analytical skills using MATLAB, Excel, and Data Visualisation Software to identify performance trends using approaches derived from Data Science and Statistics.
-* Data Analysis and Processing using most Analysis Packages: MOTEC, PI/Cosworth, BOSCH, bespoke tools in Python, MATLAB, and Excel.
-* Strong understanding of Vehicle Dynamics and Simulation techniques and packages.
-* Interest in Data Science & Analytics, High Performance Computing, and Open Source Technology
-
 ## Professional Experience
 
 ---
@@ -131,17 +120,6 @@ Winston Salem, North Carolina, USA
 * (Advanced Level) Git, Database/Data Engineering, AGILE Development Processes
 * Technical Reporting
 * Engineering and Project Management
-
-## Personal Interests
-
----
-
-* [Mountaineering & Alpine Rock Climbing](https://www.instagram.com/explore/tags/corbinclimbs/)
-  * [Climbing CV and Qualifications](link)
-* [Travel, Adventure, and High Angle Photography](https://www.instagram.com/corbinheist/)
-* High Performance Computing, Data Science/Engineering, and Innovation in Technology
-* Free and Open Source Technology, Linux
-* Home/Edge High Performance Computing
 
 ## References
 
