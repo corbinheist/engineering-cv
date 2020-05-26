@@ -11,16 +11,20 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 #### *January 2020 -*
 
 * Test Engineer responsible for production of Valve Index BaseStation
-* Responsible for definiing test specifications, carrying out tests, and providing detailed data-**analysis**.
-* Developed Open Source Centric Data Analysis Workflows
+* Responsible for defining test specifications, carrying out tests, and providing detailed data-analysis and recommendations to key project stakeholders.
+* Manage Test program deployment pipeline and coordinate deployment and validation of Test Builds.
+* Implemented aglie workflow internal to Test-Engineering department
+* Developed, Supported, and Implemented in-house data-analysis tools for Engineering Team
 
 ### Software Engineer : HH Development Limited
 
 #### *January 2019 - May 2019*
 
-* Motorsport Data Management Software Development
+* Develop Software for Motorsport Data Maanagement in an Agile Development environment
+  * Microsoft .NET Development Environment for Desktop, Web, and Mobile Applications
 * Customer Support and Liason - including remote trackside support of tests and races.
-* Main Roles: Software Development, Product Testing, Customer Support
+  * Diagnose and Triage software and setup issues.
+* Main Roles: Software Development, Internal Product Testing, Customer Support
 
 ### Assistant Race Engineer: Meyer Shank Racing (IndyCar and IMSA (NSX GT3))
 
@@ -37,28 +41,18 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 | Audi Sport ISR | Audi R8 GT3 | Blancpain GT |
 | Tockwith Motorsport | Ligier JSP217 LMP2 | European Le Mans Series + Le Mans 24h + Selected World Endurance Championship Rounds |
 | Gruppe M Racing | Mercedes AMG GT3 | Blancpain GT Asia |
-| Private F3 Testing | Euroformula F3 | Euroformula |
-| Greaves Motorsport | Ligier JSP2 LMP2 | European Le Mans Series + Le Mans 24h  |
+| Private Testing | Euroformula F3 | Euroformula F3|
+| Greaves Motorsport | Gibson G15 LMP2 / Ligier JSP2 LMP2 | European Le Mans Series (2015 Champions) + Le Mans 24h  |
 
-### Junior Performance Engineer: Greaves Motosport
+### Additional Engineering & Motorsport Roles
 
-#### *June 2015 – January 2016*
-
-### Greaves 3D Engineering Engineer (Summer Placement)
-
-#### *June 2015- September 2015*
-
-### Junior Tyre Technician: Rebellion Racing
-
-#### *June 2015 - 24H Le Mans*
-
-### Data and Mechanic: BMW Club Racing
-
-#### *2011-2013*
-
-### Junior Mechanic and Track Support: Korman Autoworks 
-
-#### *2009- 2013*
+| | |
+|------------------------------------------------|----------------------------|
+| Junior Performance Engineer: Greaves Motosport | June 2015 – January 2016 |
+| Design Engineer (Summer Placement): Greaves 3D Engineering  | June 2015- September 2015 |
+| Junior Tyre Technician: Rebellion Racing | June 2015 - 24H Le Mans |
+| Data and Mechanic: BMW Club Racing | 2011-2013 |
+| Junior Mechanic and Track Support: Korman Autoworks | 2009-2013 |
 
 ## Additional Motorsport and Engineering Qualifications
 
@@ -74,37 +68,28 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 ---
 
-### Arc'Teryx Seattle Brand Store - Product Guide
-
-### Blue Force Technology Composite Manufacturing Apprentice
-
-#### *2012-2013*
+| | | |
+|-|-|-|
+| Arc'Teryx Seattle |  Product Guide | September 2019 - December 2019|
+| Blue Force Technology | Composite Manufacturing Apprentice| 2012-2013|
 
 ## Education
 
 ---
 
-### BEng (Hons) Motorsport Engineering - Oxford Brookes University
+### BEng Motorsport Engineering - Oxford Brookes University
 
 Oxford, United Kingdom (September 2013- December 2017)
 
-#### Unique Projects
-
-#### *“Stability and Control Analysis of a LMP2 Sportscar Prototype”*
-
-#### “Design Study: LMP2 Coupe Front Suspension’’
-
-#### “Vehicle Performance Analysis using MATLAB”
+| Industry-Relevant Work |
+|-|
+| “Stability and Control Analysis of a LMP2 Sportscar Prototype” (Collaboration with Greaves Motorsport) |
+| “Design Study: LMP2 Coupe Front Suspension" (Collaboration with Gibson/Zytek Motorsport)|
+| “Vehicle Performance Analysis using MATLAB” |
 
 ### Associates of Science (Motorsport Technology) - Forsyth Technical Community College
 
 Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
-
-### Associates of Science (Motorsport Technology): Forsyth Technical Community College
-
-#### *August 2011-May 2013* (3.5 GPA)
-
-Winston Salem, North Carolina, USA
 
 ---
 
@@ -114,12 +99,12 @@ Winston Salem, North Carolina, USA
 
 * (Expert) Data Acquisition, Telemetry, and Data Analysis (PI Toolbox, MOTEC, MATLAB, Bespoke Tools)
 * (Expert) Motorsport Control Systems and Configuration (MOTEC, PI Toolset, Bosch)
-* (Advanced) Motorsport Strategy, Tactics, and Analysis Tool Development
-* (Advanced) Vehicle Dynamics and Simulation
+* (Advanced) Motorsport Strategy, and Analysis Tool Development
+* (Advanced) Vehicle Dynamics and Simulation - Including Multibody simulation development
 * (Advanced) Network Administration, Computer Setup/Build, General Technology Fluency
 * (Advanced Level) Git, Database/Data Engineering, AGILE Development Processes
 * Technical Reporting
-* Engineering and Project Management
+* Engineering and Project Management (Traditional + AGILE Workflows)
 
 ## References
 
