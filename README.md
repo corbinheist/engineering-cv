@@ -8,7 +8,7 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 ### Test Engineer
 
-| | |
+| Employer | Time|
 |-|-|
 | Applied Technical Services Corp. | January 2020 -|
 
@@ -20,11 +20,11 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 ### Software Engineer
 
-| | |
+| Employer | Time |
 |-|-|
 | HH Development Limited | January 2019 - May 2019 |
 
-* Develop Software for Motorsport Data Maanagement in an Agile Development environment
+* Develop Software for Motorsport Data Management in an Agile Development environment
   * Microsoft .NET Development Environment for Desktop, Web, and Mobile Applications
 * Customer Support and Liason - including remote trackside support of tests and races.
   * Diagnose and Triage software and setup issues.
@@ -32,7 +32,7 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 ### Race Engineer
 
-|  Roles | | | |
+|  Roles | Employer | Location | Time |
 |-|-----------------------------------------------|----------------------------|-|
 | Assistant Race Engineer | Meyer Shank Racing (IndyCar and IMSA (NSX GT3)) | Columbus, OH | November 2017 - November 2018 |
 | Control Systems and Performance Engineer| Freelance Engineer (Sole Trader) | Oxford, United Kingdom | December 2015 - October 2017 |
@@ -55,7 +55,7 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 ### Additional Engineering & Motorsport Roles and Qualifications
 
-| | | |
+| Role | Employer | Time |
 |------------------------------------------------|----------------------------|-|
 | Junior Performance Engineer | Greaves Motosport | June 2015 – January 2016 |
 | Design Engineer (Summer Placement) | Greaves 3D Engineering  | June 2015- September 2015 |
@@ -74,7 +74,7 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 ## Other Work Experience
 
-| | | | |
+| Employer | Role | Location | Time |
 |-|-|-|-|
 | Arc'Teryx Seattle |  Product Guide | Seattle, WA | September 2019 - December 2019|
 | Blue Force Technology | Composite Manufacturing Apprentice | Durham, NC | 2012-2013|
@@ -85,7 +85,6 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 | Oxford Brookes University | Oxford, United Kingdom | September 2013- December 2017 |
 |-|-|-|
-|  |  |
 
 | Industry-Relevant Work |
 |-|
@@ -98,7 +97,6 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 | Forsyth Technical Community College | Winston-Salem, NC | September 2011- May 2013 |
 |-|-|-|
-|  |  |
 
 ## Select Technical Skills
 
