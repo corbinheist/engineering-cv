@@ -74,16 +74,12 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 ## Other Work Experience
 
----
-
 | | | | |
 |-|-|-|-|
 | Arc'Teryx Seattle |  Product Guide | Seattle, WA | September 2019 - December 2019|
 | Blue Force Technology | Composite Manufacturing Apprentice | Durham, NC | 2012-2013|
 
 ## Education
-
----
 
 ### BEng Motorsport Engineering
 
@@ -104,11 +100,7 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 |-|-|-|
 |  |  |
 
----
-
-## Technical Skills
-
----
+## Select Technical Skills
 
 * (Expert) Data Acquisition, Telemetry, and Data Analysis (PI Toolbox, MOTEC, MATLAB, Bespoke Tools)
 * (Expert) Motorsport Control Systems and Configuration (MOTEC, PI Toolset, Bosch)
@@ -116,11 +108,9 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 * (Advanced) Vehicle Dynamics and Simulation - Including Multibody simulation development
 * (Advanced) Network Administration, Computer Setup/Build, General Technology Fluency
 * (Intermediate) Git, Database/Data Engineering, AGILE Development Processes
-* Technical Reporting
+* Technical Reporting and Documentation
 * Engineering and Project Management (Traditional + AGILE Workflows)
 
 ## References
-
----
 
 References Available upon [request](mailto:contact@corbinheist.com)
