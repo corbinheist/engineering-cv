@@ -2,204 +2,113 @@
 
 Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
-## Profile
-
----
-
-* Dual USA and UK National
-* Proven Motorsport professional, Experience in International Prototype, Open Wheel, and GT racing categories.
-* Strong analytical skills using MATLAB, Excel, and Data Visualisation Software to identify performance trends using approaches derived from Data Science and Statistics.
-* Data Analysis and Processing using most Analysis Packages: MOTEC, PI/Cosworth, BOSCH, bespoke tools in Python, MATLAB, and Excel.
-* Strong understanding of Vehicle Dynamics and Simulation techniques and packages.
-* Interest in Data Science & Analytics, High Performance Computing, and Open Source Technology
-
 ## Professional Experience
 
 ---
 
-### Software Engineer : HH Development Limited
+### Test Engineer
 
-#### *January 2019 - May 2019*
+| Employer | Time|
+|-|-|
+| Applied Technical Services Corp. | January 2020 -|
 
-* Motorsport Data Management Software Development
-* Software Engineering Project Management Workflows using Jira, Git/Sourcetree, Basecamp (Agile Development Process)
+* Test Engineer responsible for production of cutting-edge VR Hardware
+* Responsible for defining test specifications, carrying out tests, and providing detailed data-analysis and recommendations to key project stakeholders.
+* Manage Test program deployment pipeline and coordinate deployment and validation of Test Builds.
+* Implemented aglie workflow internal to Test-Engineering department
+* Developed, Supported, and Implemented in-house data-analysis tools for Engineering Team
+
+### Software Engineer
+
+| Employer | Time |
+|-|-|
+| HH Development Limited | January 2019 - May 2019 |
+
+* Develop Software for Motorsport Data Management in an Agile Development environment
+  * Microsoft .NET Development Environment for Desktop, Web, and Mobile Applications
 * Customer Support and Liason - including remote trackside support of tests and races.
-* Small Team, Remote work
-* Object Oriented Programming using .NET Desktop application development
-* Database Technologies - SQL Server & SQLite
-* Source Control - Git/Sourcetree
+  * Diagnose and Triage software and setup issues.
+* Main Roles: Software Development, Internal Product Testing, Customer Support
 
-### Assistant Race Engineer: Meyer Shank Racing
+### Race Engineer
 
-#### *November 2017 - November 2018*
+|  Roles | Employer | Location | Time |
+|-|-----------------------------------------------|----------------------------|-|
+| Assistant Race Engineer | Meyer Shank Racing (IndyCar and IMSA (NSX GT3)) | Columbus, OH | November 2017 - November 2018 |
+| Control Systems and Performance Engineer| Freelance Engineer (Sole Trader) | Oxford, United Kingdom | December 2015 - October 2017 |
 
-* Full Time Position with Extensive travel for Tests & Race Events
-* IndyCar and IMSA (NSX GT3) Sportscar Championships
-* Manage and Develop control systems strategies and configuration
-* Work Closely with Race Engineer to assess and analyse Vehicle Performance
-* Develop Library of Key Performance Indicators
-* Validate and analyse large datasets, Develop data lake and pipeline for data from Timing Provider, Onboard Data Logging, Online Resources.
-* Conduct Exploratory and Deep Dive Data Analysis using Python and Bosch WinDarab Suite
-* Realtime Race Strategy, Tactics, and Analysis Including:
-  * Tyre Degradation & Performance
-  * Fuel Strategy
-* Data Acquisition and Systems Engineer for 2019 NSX GT3 Evo Testing and Development (Seconded to Honda Performance Development)
-
-### Control Systems and Performance Engineer: Freelance Engineer
-
-#### *December 2015 - October 2017*
-
-* Support Lead Race Engineer with Data Analysis using Data Visualisation and KPI Reporting
-* Liase with Engineers on Setup Options, Data Analysis/ Reports, and Event Strategy
-* Responsible for: Realtime Race Strategy, Tactics, and Analysis.
-* Responsible for Fuel Mileage and Drive-Time strategies.
-* Report on and Analyse Key Performance Indicators, Onboard Performance and Reliability Data
-* Debrief Drivers and support driver development with Data and Simulator work
-
-##### Performance:
-
-* Produce Pre-Event Report, Race-Simulations
-* Track, Develop, and Analyse Key Performance Indicators
-* Competitor and Strategy Analysis using bespoke and commercial strategy tools
-
-##### Control Systems:
-
-* Calibrate and Maintain onboard control systems, sensors, and data logging equipment
-* Prepare, calibrate, and validate additional sensors for dedicated testing.
-* Setup and Maintain Electronic Control System Configuration and Datasets, and Team Setup and Data – Databases
-
-##### Other Responsibilities:
-
-* Network Administration and Develop Systems to manage large datasets
-* Setup, Maintain, and Improve Electrical, Network, and Data/Telemetry Systems
-* Manage and Maintain Engineering Office Hardware and Software packages
+* Coordinate performance goals with key stakeholders: Technical Director, Race Engineer, Drivers, Team Owners
+* Conduct EDA and Deep-Dive Data Analyses and report on Vehicle and Driver Performance
+* Develop Engineering-Analysis worksheets and tools
+* Maintain Event Reports and Technical documentation
+* Responsible for Data Integrity, Systems Configuration
 
 #### Client Summary
 
-| Teams| Cars| Championships|
-|----------|-----|-|
-| Audi Sport ISR | Audi R8 GT3 | Blancpain GT |
-| Tockwith Motorsport | Ligier JSP217 LMP2 | European Le Mans Series + Le Mans 24h + Selected World Endurance Championship Rounds |
-| Gruppe M Racing | Mercedes AMG GT3 | Blancpain GT Asia |
-| Private F3 Testing | Euroformula F3 | Euroformula |
-| Greaves Motorsport | Ligier JSP2 LMP2 | European Le Mans Series + Le Mans 24h  |
+| Teams| Cars| Championships| Season |
+|----------|-----|-|-|
+| Audi Sport Customer Racing | Audi R8 GT3 | Blancpain GT | 2017 (Spa 24h) |
+| Tockwith Motorsport | Ligier JSP217 LMP2 | European Le Mans Series + Le Mans 24h + Selected World Endurance Championship Rounds | 2017 |
+| Gruppe M Racing | Mercedes AMG GT3 | Blancpain GT Asia (2017 Champions) | 2017 |
+| Private Testing | Euroformula F3 | Euroformula F3| 2017 |
+| Greaves Motorsport | Gibson G15 LMP2 / Ligier JSP2 LMP2 | European Le Mans Series (2015 Champions) + Le Mans 24h  | 2015-2016 |
 
-### Junior Performance Engineer: Greaves Motosport
+### Additional Engineering & Motorsport Roles and Qualifications
 
-#### *June 2015 – January 2016*
-
-* Develop key performance indicators to measure Driver, Car, and Team performance.
-* Data Analysis using PI Toolbox
-* Development of Race Strategy and Engineering tools.
-* Driver Development through Data Analysis
-
-### Greaves 3D Engineering Engineer (Summer Placement)
-
-#### *June 2015- September 2015*
-
-* Develop existing products to improve manufacturing processes and reduce costs
-* Conceptualise and Develop concepts for new products for consumer and bespoke applications
-
-### Junior Tyre Technician: Rebellion Racing
-
-#### *June 2015 - 24H Le Mans*
-
-### Data and Mechanic: BMW Club Racing
-
-#### *2011-2013*
-
-### Junior Mechanic and Track Support: Korman Autoworks 
-
-#### *2009- 2013*
-
-## Additional Motorsport and Engineering Qualifications
+| Role | Employer | Time |
+|------------------------------------------------|----------------------------|-|
+| Junior Performance Engineer | Greaves Motosport | June 2015 – January 2016 |
+| Design Engineer (Summer Placement) | Greaves 3D Engineering  | June 2015- September 2015 |
+| Junior Tyre Technician | Rebellion Racing | June 2015 (24H Le Mans) |
+| Fireman & Apprentice | Rebellion Racing | March 2013 (Sebring 12H) |
+| Data Analyst and Track Support | BMW Club Racing | 2011-2013 |
+| Junior Mechanic and Track Support | Korman Autoworks | 2009-2013 |
 
 ---
 
-### MIA Winter School of Race Engineering Oxford, UK December 2012
-
-### Optimum G Applied Vehicle Dynamics Birmingham, UK January 2017
-
-### Optimum G Data Driven Performance Engineering Birmingham, UK January 2017
+| Supplemental Qualifications | | |
+|------------------------------------------------|----------------------------|-|
+| Optimum G Applied Vehicle Dynamics | Birmingham, UK | January 2017 |
+| Optimum G Data Driven Performance Engineering | Birmingham, UK | January 2017 |
+| MIA Winter School of Race Engineering | Oxford, UK | December 2012 |
 
 ## Other Work Experience
 
----
-
-### Arc'Teryx Seattle Brand Store - Product Guide
-
-### Blue Force Technology Composite Manufacturing Apprentice
-
-#### *2012-2013*
+| Employer | Role | Location | Time |
+|-|-|-|-|
+| Arc'Teryx Seattle |  Product Guide | Seattle, WA | September 2019 - December 2019|
+| Blue Force Technology | Composite Manufacturing Apprentice | Durham, NC | 2012-2013|
 
 ## Education
 
----
+### BEng Motorsport Engineering
 
-### BEng (Hons) Motorsport Engineering - Oxford Brookes University
+| Oxford Brookes University | Oxford, United Kingdom | September 2013- December 2017 |
+|-|-|-|
 
-Oxford, United Kingdom (September 2013- December 2017)
+| Industry-Relevant Work |
+|-|
+| “Stability and Control Analysis of a LMP2 Sportscar Prototype” (Collaboration with Greaves Motorsport) |
+| “Design Study: LMP2 Coupe Front Suspension" (Collaboration with Gibson/Zytek Motorsport)|
+| "Development of a 4-DOF Bicycle-Car Model to Analyse High-Downforce Sportscar Prototypes using a State-Space approach"|
+| "Quasi-Steady State Laptime Simulation in MATLAB" |
 
-#### Unique Projects
+### Associates of Science (Motorsport Technology)
 
-#### *“Stability and Control Analysis of a LMP2 Sportscar Prototype”*
+| Forsyth Technical Community College | Winston-Salem, NC | September 2011- May 2013 |
+|-|-|-|
 
-* Final Year Dissertation-Project, in cooperation with Greaves Motorsport.
-* Develop a MATLAB toolset for Yaw-Moment Analysis- to identify Key Performance Indicators for Stability, Control, and Performance of an LMP2 Sportscar.
-* Utilise Key Performance Indicators to investigate the sensitivity of vehicle setup changes to Stability, Control, and Performance.
-* Further Develop a methodology for tracking and correlating vehicle setup to vehicle performance and driver comments
-
-#### “Design Study: LMP2 Coupe Front Suspension’’
-
-* Responsible for conceptual design and analysis of an LMP2 front suspension.
-* Used MATLAB based tools and OptimumK to achieve target key performance indicators.
-* Industrial Connection to Gibson Technology - concept studies for 2017 LMP2 Chassis.
-
-#### “Vehicle Performance Analysis using MATLAB”
-
-* Created MATLAB steady state laptime simulation
-* Created MATLAB based tool and GUI for exploring Load Transfer Effects
-* Used Lapsim and Cornering Models to objectively evaluate vehicle configurations using Key Performance Indicators.
-* Created Virtual 4 post rig simulation using linear state space model, validated using OBR 4 post rig data, and Developed Key Performance Indicators to drive damping optimisation tools.
-
-### Associates of Science (Motorsport Technology) - Forsyth Technical Community College
-
-Winston-Salem, North Carolina USA (September 2011- May 2013) – 3.3 GPA
-
-### Associates of Science (Motorsport Technology): Forsyth Technical Community College
-
-#### *August 2011-May 2013* (3.5 GPA)
-
-Winston Salem, North Carolina, USA
-
----
-
-## Technical Skills
-
----
+## Select Technical Skills
 
 * (Expert) Data Acquisition, Telemetry, and Data Analysis (PI Toolbox, MOTEC, MATLAB, Bespoke Tools)
 * (Expert) Motorsport Control Systems and Configuration (MOTEC, PI Toolset, Bosch)
-* (Advanced) Motorsport Strategy, Tactics, and Analysis Tool Development
-* (Advanced) Vehicle Dynamics and Simulation
+* (Advanced) Motorsport Strategy, and Analysis Tool Development
+* (Advanced) Vehicle Dynamics and Simulation - Including Multibody simulation development
 * (Advanced) Network Administration, Computer Setup/Build, General Technology Fluency
-* (Advanced-Entry Level) Git, Database/Data Engineering, AGILE Development Processes
-* Technical Reporting
-* Engineering and Project Management
-
-## Personal Interests
-
----
-
-* [Mountaineering & Alpine Rock Climbing](https://www.instagram.com/explore/tags/corbinclimbs/)
-  * [Climbing CV and Qualifications](link)
-* [Travel, Adventure, and High Angle Photography](https://www.instagram.com/corbin.roams/)
-* High Performance Computing, Data Science/Engineering, and Innovation in Technology
-* Free and Open Source Technology, Linux
-* Home/Edge High Performance Computing
+* (Intermediate) Git, Database/Data Engineering, AGILE Development Processes
+* Technical Reporting and Documentation
+* Engineering and Project Management (Traditional + AGILE Workflows)
 
 ## References
-
----
 
 References Available upon [request](mailto:contact@corbinheist.com)
