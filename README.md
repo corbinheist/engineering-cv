@@ -1,6 +1,14 @@
-# [Corbin Heist](http://corbinheist.com/)
+# [Corbin Heist][1]
 
-Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
+Seattle, WA | [Contact@Corbinheist.com][2]
+
+---
+
+## Profile
+
+---
+
+Dynamic, Decisive, and Motivated to build Data-Driven Workflows and Analysis to understand and solve complex engineering and business problems.
 
 ## Professional Experience
 
@@ -10,13 +18,18 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 | Employer | Time|
 |-|-|
+| Creation Technology | January 2022* - Present |
 | Applied Technical Services Corp. | January 2020 -|
 
-* Test Engineer responsible for production of cutting-edge VR Hardware
-* Responsible for defining test specifications, carrying out tests, and providing detailed data-analysis and recommendations to key project stakeholders.
-* Manage Test program deployment pipeline and coordinate deployment and validation of Test Builds.
-* Implemented aglie workflow internal to Test-Engineering department
-* Developed, Supported, and Implemented in-house data-analysis tools for Engineering Team
+* Lead Test Engineer responsible for production of cutting-edge VR Hardware in $35m Facility
+* Responsible for defining test specifications, carrying out experiments, and providing detailed data-analysis and recommendations to key project stakeholders.
+* Manage Test program deployment pipeline and coordinate deployment, validation, and Process Control of Test Builds.
+* Developed, Supported, and Implemented in-house data-analysis using Jupyter Notebooks and SQL Queries
+  * Automated Engineering Paretos & Reports
+* ETL Engineering Data from SQL Database, Responsible for Validating Engineering Data.
+* Identify and Drive Improvements in Metrics/KPI's to improve performance.
+* Coordinate Engineering Test Workload with team of Engineering Technicians.
+* Work Closely with Quality Engineering to Idenfity Non-Conforming Product and determine Root Causes.
 
 ### Software Engineer
 
@@ -24,10 +37,8 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 |-|-|
 | HH Development Limited | January 2019 - May 2019 |
 
-* Develop Software for Motorsport Data Management in an Agile Development environment
-  * Microsoft .NET Development Environment for Desktop, Web, and Mobile Applications
+* Develop Software (.NET) for Motorsport Data Management in an Agile Development environment
 * Customer Support and Liason - including remote trackside support of tests and races.
-  * Diagnose and Triage software and setup issues.
 * Main Roles: Software Development, Internal Product Testing, Customer Support
 
 ### Race Engineer
@@ -38,8 +49,9 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 | Control Systems and Performance Engineer| Freelance Engineer (Sole Trader) | Oxford, United Kingdom | December 2015 - October 2017 |
 
 * Coordinate performance goals with key stakeholders: Technical Director, Race Engineer, Drivers, Team Owners
-* Conduct EDA and Deep-Dive Data Analyses and report on Vehicle and Driver Performance
-* Develop Engineering-Analysis worksheets and tools
+* Conduct Experimental and Deep-Dive Data Analyses and report on Vehicle and Driver Performance
+* Lead Event (Race) Strategy Analysis
+  * Develop Engineering-Analysis toolbox: Including Dashboards, Metrics/KPI
 * Maintain Event Reports and Technical documentation
 * Responsible for Data Integrity, Systems Configuration
 
@@ -102,13 +114,17 @@ Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com)
 
 * (Expert) Data Acquisition, Telemetry, and Data Analysis (PI Toolbox, MOTEC, MATLAB, Bespoke Tools)
 * (Expert) Motorsport Control Systems and Configuration (MOTEC, PI Toolset, Bosch)
-* (Advanced) Motorsport Strategy, and Analysis Tool Development
+* (Advanced) Python, Jupyter Notebook, SQL, Pandas
 * (Advanced) Vehicle Dynamics and Simulation - Including Multibody simulation development
 * (Advanced) Network Administration, Computer Setup/Build, General Technology Fluency
-* (Intermediate) Git, Database/Data Engineering, AGILE Development Processes
+* (Intermediate) Git, Data Engineering, Agile Development Processes
 * Technical Reporting and Documentation
-* Engineering and Project Management (Traditional + AGILE Workflows)
+* Engineering and Project Management
 
 ## References
 
-References Available upon [request](mailto:contact@corbinheist.com)
+References Available upon [request][3]
+
+[1]:	http://corbinheist.com/
+[2]:	mailto:contact@corbinheist.com
+[3]:	mailto:contact@corbinheist.com
