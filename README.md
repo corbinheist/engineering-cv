@@ -97,6 +97,7 @@ Dynamic, Decisive, and Motivated to build Data-Driven Workflows and Analysis to 
 
 | Oxford Brookes University | Oxford, United Kingdom | September 2013- December 2017 |
 |-|-|-|
+| | | |
 
 | Industry-Relevant Work |
 |-|
@@ -109,6 +110,7 @@ Dynamic, Decisive, and Motivated to build Data-Driven Workflows and Analysis to 
 
 | Forsyth Technical Community College | Winston-Salem, NC | September 2011- May 2013 |
 |-|-|-|
+| | | |
 
 ## Select Technical Skills
 
