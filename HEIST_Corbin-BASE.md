@@ -1,3 +1,6 @@
+---
+published: false
+---
 # [Corbin Heist](http://corbinheist.com/)
 
 Seattle, WA | [Contact@Corbinheist.com](mailto:contact@corbinheist.com) | +1 (336) 803 9230
