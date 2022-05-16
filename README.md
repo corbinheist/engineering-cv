@@ -62,7 +62,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 | Audi Sport Customer Racing | Audi R8 GT3 | Blancpain GT | 2017 (Spa 24h) |
 | Tockwith Motorsport | Ligier JSP217 LMP2 | European Le Mans Series + Le Mans 24h + Selected World Endurance Championship Rounds | 2017 |
 | Gruppe M Racing | Mercedes AMG GT3 | Blancpain GT Asia (2017 Champions) | 2017 |
-| Private Testing | Euroformula F3 | Euroformula F3| 2017 |
+| *Private* | Euroformula F3 | Euroformula F3| 2017 |
 | Greaves Motorsport | Gibson G15 LMP2 / Ligier JSP2 LMP2 | European Le Mans Series (2015 Champions) + Le Mans 24h  | 2015-2016 |
 
 ### Additional Engineering & Motorsport Roles
