@@ -118,6 +118,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 - Proficient in MATLAB (Symbolic Math Toolbox, GUI)
 - Proficient in CAD (SolidWorks, Catia (Basic), Autodesk (Basic))
 - Proficient user operating systems (Windows, Linux, MacOS)
+- Proficient in Source Control Frameworks (Git, Subversion)
   
 ### Engineering
 
