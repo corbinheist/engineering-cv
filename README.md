@@ -1,4 +1,4 @@
-# [Corbin Heist]
+# Corbin Heist
 
 Seattle, WA | [Contact@Corbinheist.com][2]
 
