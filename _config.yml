@@ -1,3 +1,6 @@
 theme: minima
 title: Corbin Heist | Engineering CV
 google_analytics: UA-228847421-1
+minima:
+  social_links:
+    linkedin: https://www.linkedin.com/in/corbinheist/
