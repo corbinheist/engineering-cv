@@ -1,4 +1,4 @@
-# Corbin Heist - Engineering CV
+# 
 # [Corbin Heist][1]
 
 Seattle, WA | [Contact@Corbinheist.com][2]
@@ -10,9 +10,7 @@ Engineer driven to solve complex engineering problems with a data-driven methodo
 Proven ability to work independently and autonomously, synthesize complex problems, and deliver results.
 
 
-## Professional Experience
-
-### Test Engineer
+## Test Engineer
 
 | Employer | Time|
 |-|-|
@@ -33,7 +31,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 * Manage Engineering Projects using Jira, Git. Bootstrapped tools to meet requirements of manufacturing engineering.
 * Undertake significant reverse-engineering of production testing architecture: Test PC's, Test Framework, Software/Hardware Interface, Automation (Allen Bradley PLC) Logic-Flow
 
-### Software Engineer
+## Software Engineer
 
 | Employer | Time |
 |-|-|
@@ -43,7 +41,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 * Support Customer Applications including remote trackside support of tests and races.
 * Test and Debug internal product(s)
 
-### Race Engineer
+## Race Engineer
 
 |  Roles | Employer | Location | Time |
 |-|-----------------------------------------------|----------------------------|-|
@@ -59,7 +57,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
   * Responsible for Pre-Race Strategy Development: Fuel Consumption/Strategy, Pit Stop Windows, Track Position Management
 * Collaborate with lead race engineer to implement vehicle configuration changes based on realtime and logged telemetry
 
-#### Client Summary
+### Client Summary
 
 | Teams| Cars| Championships| Season |
 |----------|-----|-|-|
@@ -81,7 +79,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 | Junior Mechanic and Track Support | Korman Autoworks | 2009-2013 |
 
 
-### Supplemental Qualifications
+## Supplemental Qualifications
 
 | Supplemental Qualifications                   |                |               |
 | --------------------------------------------- | -------------- | ------------- |
@@ -100,25 +98,16 @@ Proven ability to work independently and autonomously, synthesize complex proble
 
 ## Education
 
-### BEng Motorsport Engineering
-
-| Oxford Brookes University | Oxford, United Kingdom | September 2013- December 2017 |
+| Degree | Institution | Location | Dates-Attended |
 |-|-|-|
-| | | |
-
+| BEng Motorsport Engineering | Oxford Brookes University | Oxford, United Kingdom | September 2013- December 2017 |
+| Associates of Science (Motorsport Technology) | Forsyth Technical Community College | Winston-Salem, NC | September 2011- May 2013 |
 #### Industry-Relevant Papers
 
 - “Stability and Control Analysis of a LMP2 Sportscar Prototype” (Collaboration with Greaves Motorsport)
 - “Design Study: LMP2 Coupe Front Suspension" (Collaboration with Gibson/Zytek Motorsport)
 - "Development of a 4-DOF Bicycle-Car Model to Analyse High-Downforce Sportscar Prototypes using a State-Space approach"
 - "Quasi-Steady State Laptime Simulation in MATLAB"
-
-### Associates of Science (Motorsport Technology)
-
-| Forsyth Technical Community College | Winston-Salem, NC | September 2011- May 2013 |
-|-|-|-|
-| | | |
-
 
 ## Technical Skills
   
