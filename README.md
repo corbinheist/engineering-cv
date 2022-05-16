@@ -1,3 +1,4 @@
+# Corbin Heist - Engineering CV
 # [Corbin Heist][1]
 
 Seattle, WA | [Contact@Corbinheist.com][2]
@@ -24,10 +25,9 @@ Proven ability to work independently and autonomously, synthesize complex proble
   * Automated Engineering Reporting using Jupyter Notebooks
 * ETL Engineering Data using SQL Database, Responsible for Validating Engineering Data.
 * Author and Peer-Review Engineering Change Orders and Processes
-* Identify and Drive Improvements in Metrics/KPI's to improve performance, drove [[RTY|rolling-throughput-yield]] from ~72% to ~85%
+* Identify and Drive Improvements in Metrics/KPI's to improve performance, drove key throughput metric (RTY) from ~72% to ~85%
 * Coordinate Engineering Test and experiment workload with Engineering Technicians.
 * Work Closely with Quality Engineering to Identify Non-Conforming Product and determine Root Causes.
-  * Participate in the NCMR Board and correctly disposition marginal and non-conforming product.
 * Debug Engineering Samples and Non-conforming product using standard electronic lab test equipment (i.e. oscilloscopes, multimeters, etc.)
 * $35m Automated Production Facility producing high end electronics for VR technologies.
 * Manage Engineering Projects using Jira, Git. Bootstrapped tools to meet requirements of manufacturing engineering.
@@ -104,6 +104,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 
 | Oxford Brookes University | Oxford, United Kingdom | September 2013- December 2017 |
 |-|-|-|
+| | | |
 
 #### Industry-Relevant Papers
 
@@ -116,6 +117,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 
 | Forsyth Technical Community College | Winston-Salem, NC | September 2011- May 2013 |
 |-|-|-|
+| | | |
 
 
 ## Technical Skills
