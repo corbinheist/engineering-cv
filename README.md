@@ -111,13 +111,28 @@ Proven ability to work independently and autonomously, synthesize complex proble
 
 ## Technical Skills
   
-Coding and Programming: proficient in Python (Anaconda, OpenCV, Bokeh, Pandas, Matplotlib, Seaborn, Scikit-Learn, Numpy), Jupyter Notebooks, proficient in C# (.NET Development Environment) , proficient in MATLAB (Symbolic Math Toolbox, GUI), intermediate CAD (Siemens NX Unigraphics, Creo, SolidWorks), user operating systems (Windows, Linux, MacOS).  
+### Coding and Programming
+
+- Intermediate in Python (Anaconda, OpenCV, Bokeh, Pandas, Matplotlib, Seaborn, Scikit-Learn, Numpy), Jupyter Notebooks,
+- Proficient in C# (.NET Development Environment)
+- Proficient in MATLAB (Symbolic Math Toolbox, GUI)
+- Proficient in CAD (SolidWorks, Catia (Basic), Autodesk (Basic))
+- Proficient user operating systems (Windows, Linux, MacOS)
   
-Engineering: modeling and simulation, optimization, control, numerical analysis methods, analytical and problem solving, project planning management.  
+### Engineering
+
+- modeling and simulation
+- optimization, control
+- numerical analysis methods
+- analytical and problem solving
+- project planning management.  
   
-Communication: technical writing (Microsoft Office Suite, Latex, PowerPoint, Markdown).
-  
-Innovation & Creative Thinking: improve skills approach to tackle new challenges, seeking advice and criticism to constantly improve, suggest and promote ideas for analysis.
+### Communication
+
+- technical writing (Microsoft Office Suite, Latex, PowerPoint, Markdown)
+### Innovation & Creative Thinking
+
+- improve skills approach to tackle new challenges, seeking advice, mentorship, and criticism to constantly improve, suggest and promote ideas for analysis.
 
 ## References
 
