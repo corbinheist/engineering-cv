@@ -1,3 +1,4 @@
+
 Seattle, WA | [Contact@Corbinheist.com][2]
 
 ## Profile
@@ -129,6 +130,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 ### Communication
 
 - technical writing (Microsoft Office Suite, Latex, PowerPoint, Markdown)
+
 ### Innovation & Creative Thinking
 
 - improve skills approach to tackle new challenges, seeking advice, mentorship, and criticism to constantly improve, suggest and promote ideas for analysis.
