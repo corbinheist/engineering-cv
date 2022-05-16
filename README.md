@@ -28,6 +28,8 @@ Proven ability to work independently and autonomously, synthesize complex proble
 * Manage Engineering Projects using Jira, Git. Bootstrapped tools to meet requirements of manufacturing engineering.
 * Undertake significant reverse-engineering of production testing architecture: Test PC's, Test Framework, Software/Hardware Interface, Automation (Allen Bradley PLC) Logic-Flow
 
+*Note: Creation Technology acquired Applied Technical Services in January 2022*
+
 ## Software Engineer
 
 | Employer | Time |
