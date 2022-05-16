@@ -101,6 +101,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 |-|-|-|-|
 | BEng Motorsport Engineering | Oxford Brookes University | Oxford, United Kingdom | September 2013- December 2017 |
 | Associates of Science (Motorsport Technology) | Forsyth Technical Community College | Winston-Salem, NC | September 2011- May 2013 |
+
 ### Relevant University Work
 
 - “Stability and Control Analysis of a LMP2 Sportscar Prototype” (Collaboration with Greaves Motorsport)
