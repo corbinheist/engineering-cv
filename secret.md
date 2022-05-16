@@ -1,6 +1,6 @@
 ---
 title: Secret Page
-hidden: true
+hide: true
 ---
 
 ## Congrats, you found a secret
