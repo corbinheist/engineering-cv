@@ -1,5 +1,4 @@
-# 
-# [Corbin Heist][1]
+# [Corbin Heist]
 
 Seattle, WA | [Contact@Corbinheist.com][2]
 
@@ -123,6 +122,5 @@ Innovation & Creative Thinking: improve skills approach to tackle new challenges
 
 References Available upon [request][3]
 
-[1]:	http://corbinheist.com/
 [2]:	mailto:contact@corbinheist.com
 [3]:	mailto:contact@corbinheist.com
