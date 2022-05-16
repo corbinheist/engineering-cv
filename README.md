@@ -2,34 +2,36 @@
 
 Seattle, WA | [Contact@Corbinheist.com][2]
 
----
-
 ## Profile
 
----
+Engineer driven to solve complex engineering problems with a data-driven methodology.
 
-Dynamic, Decisive, and Motivated to build Data-Driven Workflows and Analysis to understand and solve complex engineering and business problems.
+Proven ability to work independently and autonomously, synthesize complex problems, and deliver results.
+
 
 ## Professional Experience
-
----
 
 ### Test Engineer
 
 | Employer | Time|
 |-|-|
 | Creation Technology | January 2022* - Present |
-| Applied Technical Services Corp. | January 2020 -|
+| Applied Technical Services Corp. | January 2020 - Present|
 
-* Lead Test Engineer responsible for production of cutting-edge VR Hardware in $35m Facility
 * Responsible for defining test specifications, carrying out experiments, and providing detailed data-analysis and recommendations to key project stakeholders.
-* Manage Test program deployment pipeline and coordinate deployment, validation, and Process Control of Test Builds.
-* Developed, Supported, and Implemented in-house data-analysis using Jupyter Notebooks and SQL Queries
-  * Automated Engineering Paretos & Reports
-* ETL Engineering Data from SQL Database, Responsible for Validating Engineering Data.
-* Identify and Drive Improvements in Metrics/KPI's to improve performance.
-* Coordinate Engineering Test Workload with team of Engineering Technicians.
-* Work Closely with Quality Engineering to Idenfity Non-Conforming Product and determine Root Causes.
+* Manage automation-integrated Tests and coordinate deployment, validation, and Process Control of Test Software and Configuration.
+* Developed, Supported, and Validated test data-analysis using Python, SQL, C#
+  * Automated Engineering Reporting using Jupyter Notebooks
+* ETL Engineering Data using SQL Database, Responsible for Validating Engineering Data.
+* Author and Peer-Review Engineering Change Orders and Processes
+* Identify and Drive Improvements in Metrics/KPI's to improve performance, drove [[RTY|rolling-throughput-yield]] from ~72% to ~85%
+* Coordinate Engineering Test and experiment workload with Engineering Technicians.
+* Work Closely with Quality Engineering to Identify Non-Conforming Product and determine Root Causes.
+  * Participate in the NCMR Board and correctly disposition marginal and non-conforming product.
+* Debug Engineering Samples and Non-conforming product using standard electronic lab test equipment (i.e. oscilloscopes, multimeters, etc.)
+* $35m Automated Production Facility producing high end electronics for VR technologies.
+* Manage Engineering Projects using Jira, Git. Bootstrapped tools to meet requirements of manufacturing engineering.
+* Undertake significant reverse-engineering of production testing architecture: Test PC's, Test Framework, Software/Hardware Interface, Automation (Allen Bradley PLC) Logic-Flow
 
 ### Software Engineer
 
@@ -37,23 +39,25 @@ Dynamic, Decisive, and Motivated to build Data-Driven Workflows and Analysis to 
 |-|-|
 | HH Development Limited | January 2019 - May 2019 |
 
-* Develop Software (.NET) for Motorsport Data Management in an Agile Development environment
-* Customer Support and Liason - including remote trackside support of tests and races.
-* Main Roles: Software Development, Internal Product Testing, Customer Support
+* Develop Software (.NET) for Motorsport Data Management
+* Support Customer Applications including remote trackside support of tests and races.
+* Test and Debug internal product(s)
 
 ### Race Engineer
 
 |  Roles | Employer | Location | Time |
 |-|-----------------------------------------------|----------------------------|-|
 | Assistant Race Engineer | Meyer Shank Racing (IndyCar and IMSA (NSX GT3)) | Columbus, OH | November 2017 - November 2018 |
-| Control Systems and Performance Engineer| Freelance Engineer (Sole Trader) | Oxford, United Kingdom | December 2015 - October 2017 |
+| Performance, Systems, Data, Strategy Engineer | Reference: Client Summary | Oxford, United Kingdom | December 2015 - October 2017 |
 
 * Coordinate performance goals with key stakeholders: Technical Director, Race Engineer, Drivers, Team Owners
 * Conduct Experimental and Deep-Dive Data Analyses and report on Vehicle and Driver Performance
+  * Collaborate with Lead Race Engineer and Driver(s) to optimize vehicle & driver performance.
+* Develop data-driven engineering tools for Dashboards, Metrics/KPI (data driven methodologies)
 * Lead Event (Race) Strategy Analysis
-  * Develop Engineering-Analysis toolbox: Including Dashboards, Metrics/KPI
-* Maintain Event Reports and Technical documentation
-* Responsible for Data Integrity, Systems Configuration
+  * Author timing reports and advanced statistical analysis (particularly focused on Balance of Performance (BoP) optimization) following races, using Matlab, Python
+  * Responsible for Pre-Race Strategy Development: Fuel Consumption/Strategy, Pit Stop Windows, Track Position Management
+* Collaborate with lead race engineer to implement vehicle configuration changes based on realtime and logged telemetry
 
 #### Client Summary
 
@@ -65,7 +69,7 @@ Dynamic, Decisive, and Motivated to build Data-Driven Workflows and Analysis to 
 | Private Testing | Euroformula F3 | Euroformula F3| 2017 |
 | Greaves Motorsport | Gibson G15 LMP2 / Ligier JSP2 LMP2 | European Le Mans Series (2015 Champions) + Le Mans 24h  | 2015-2016 |
 
-### Additional Engineering & Motorsport Roles and Qualifications
+### Additional Engineering & Motorsport Roles
 
 | Role | Employer | Time |
 |------------------------------------------------|----------------------------|-|
@@ -76,13 +80,16 @@ Dynamic, Decisive, and Motivated to build Data-Driven Workflows and Analysis to 
 | Data Analyst and Track Support | BMW Club Racing | 2011-2013 |
 | Junior Mechanic and Track Support | Korman Autoworks | 2009-2013 |
 
----
 
-| Supplemental Qualifications | | |
-|------------------------------------------------|----------------------------|-|
-| Optimum G Applied Vehicle Dynamics | Birmingham, UK | January 2017 |
-| Optimum G Data Driven Performance Engineering | Birmingham, UK | January 2017 |
-| MIA Winter School of Race Engineering | Oxford, UK | December 2012 |
+### Supplemental Qualifications
+
+| Supplemental Qualifications                   |                |               |
+| --------------------------------------------- | -------------- | ------------- |
+| Kaggle Data Science Competitions              |                | Ongoing       |
+| Optimum G Applied Vehicle Dynamics            | Birmingham, UK | January 2017  |
+| Optimum G Data Driven Performance Engineering | Birmingham, UK | January 2017  |
+| MIA Winter School of Race Engineering         | Oxford, UK     | December 2012 |
+
 
 ## Other Work Experience
 
@@ -97,31 +104,29 @@ Dynamic, Decisive, and Motivated to build Data-Driven Workflows and Analysis to 
 
 | Oxford Brookes University | Oxford, United Kingdom | September 2013- December 2017 |
 |-|-|-|
-| | | |
 
-| Industry-Relevant Work |
-|-|
-| “Stability and Control Analysis of a LMP2 Sportscar Prototype” (Collaboration with Greaves Motorsport) |
-| “Design Study: LMP2 Coupe Front Suspension" (Collaboration with Gibson/Zytek Motorsport)|
-| "Development of a 4-DOF Bicycle-Car Model to Analyse High-Downforce Sportscar Prototypes using a State-Space approach"|
-| "Quasi-Steady State Laptime Simulation in MATLAB" |
+#### Industry-Relevant Papers
+
+- “Stability and Control Analysis of a LMP2 Sportscar Prototype” (Collaboration with Greaves Motorsport)
+- “Design Study: LMP2 Coupe Front Suspension" (Collaboration with Gibson/Zytek Motorsport)
+- "Development of a 4-DOF Bicycle-Car Model to Analyse High-Downforce Sportscar Prototypes using a State-Space approach"
+- "Quasi-Steady State Laptime Simulation in MATLAB"
 
 ### Associates of Science (Motorsport Technology)
 
 | Forsyth Technical Community College | Winston-Salem, NC | September 2011- May 2013 |
 |-|-|-|
-| | | |
 
-## Select Technical Skills
 
-* (Expert) Data Acquisition, Telemetry, and Data Analysis (PI Toolbox, MOTEC, MATLAB, Bespoke Tools)
-* (Expert) Motorsport Control Systems and Configuration (MOTEC, PI Toolset, Bosch)
-* (Advanced) Python, Jupyter Notebook, SQL, Pandas
-* (Advanced) Vehicle Dynamics and Simulation - Including Multibody simulation development
-* (Advanced) Network Administration, Computer Setup/Build, General Technology Fluency
-* (Intermediate) Git, Data Engineering, Agile Development Processes
-* Technical Reporting and Documentation
-* Engineering and Project Management
+## Technical Skills
+  
+Coding and Programming: proficient in Python (Anaconda, OpenCV, Bokeh, Pandas, Matplotlib, Seaborn, Scikit-Learn, Numpy), Jupyter Notebooks, proficient in C# (.NET Development Environment) , proficient in MATLAB (Symbolic Math Toolbox, GUI), intermediate CAD (Siemens NX Unigraphics, Creo, SolidWorks), user operating systems (Windows, Linux, MacOS).  
+  
+Engineering: modeling and simulation, optimization, control, numerical analysis methods, analytical and problem solving, project planning management.  
+  
+Communication: technical writing (Microsoft Office Suite, Latex, PowerPoint, Markdown).
+  
+Innovation & Creative Thinking: improve skills approach to tackle new challenges, seeking advice and criticism to constantly improve, suggest and promote ideas for analysis.
 
 ## References
 
