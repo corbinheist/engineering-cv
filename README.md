@@ -7,7 +7,6 @@ Engineer driven to solve complex engineering problems with a data-driven methodo
 
 Proven ability to work independently and autonomously, synthesize complex problems, and deliver results.
 
-
 ## Test Engineer
 
 | Employer | Time|
