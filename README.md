@@ -24,7 +24,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 * Coordinate Engineering Test and experiment workload with Engineering Technicians.
 * Work Closely with Quality Engineering to Identify Non-Conforming Product and determine Root Causes.
 * Debug Engineering Samples and Non-conforming product using standard electronic lab test equipment (i.e. oscilloscopes, multimeters, etc.)
-* $35m Automated Production Facility producing high end electronics for VR technologies.
+* $35m ISO 9001 Compliant Automated Production Facility producing high end electronics for VR technologies.
 * Manage Engineering Projects using Jira, Git. Bootstrapped tools to meet requirements of manufacturing engineering.
 * Undertake significant reverse-engineering of production testing architecture: Test PC's, Test Framework, Software/Hardware Interface, Automation (Allen Bradley PLC) Logic-Flow
 
