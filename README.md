@@ -113,24 +113,33 @@ Proven ability to work independently and autonomously, synthesize complex proble
   
 ### Coding and Programming
 
-- Intermediate in Python (Anaconda, OpenCV, Bokeh, Pandas, Matplotlib, Seaborn, Scikit-Learn, Numpy), Jupyter Notebooks,
+- Advanced in Python (Anaconda, OpenCV, Bokeh, Pandas, Matplotlib, Seaborn, Scikit-Learn, Numpy), Jupyter Notebooks.
 - Proficient in C# (.NET Development Environment)
-- Proficient in MATLAB (Symbolic Math Toolbox, GUI)
-- Proficient in CAD (SolidWorks, Catia (Basic), Autodesk (Basic))
-- Proficient user operating systems (Windows, Linux, MacOS)
+- Advanced in MATLAB (Symbolic Math Toolbox, GUI)
+- Intermediate in CAD (SolidWorks, Catia (Basic), Autodesk (Basic))
+- Advanced user operating systems (Windows, Linux, MacOS)
 - Proficient in Source Control Frameworks (Git, Subversion)
+
+### Data Science and Analysis
+
+- Advanced Data Visualization (Bokeh, Seaborn, Matplotlib)
+- Advanced Data Analytics, Analytics.
+- Advanced Statistics and Mathematics (Linear Algebra, Modeling, Engineering Maths)
+- Intermediate Data Management
+- Proficient Data Mining structured data
   
 ### Engineering
 
-- modeling and simulation
+- Advanced modeling and simulation
 - optimization, control
 - numerical analysis methods
 - analytical and problem solving
 - project planning management.  
-  
+- Proficient in Engineering Test-fixtures (N-Post Rigs, Damper Dynos, Engine Dynos, Environmental Chambers)
+
 ### Communication
 
-- technical writing (Microsoft Office Suite, Latex, PowerPoint, Markdown)
+- Advanced technical writing (Microsoft Office Suite, Latex, PowerPoint, Markdown)
 
 ### Innovation & Creative Thinking
 
