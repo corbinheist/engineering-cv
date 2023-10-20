@@ -7,11 +7,16 @@ Engineer driven to solve complex engineering problems with a data-driven methodo
 
 Proven ability to work independently and autonomously, synthesize complex problems, and deliver results.
 
+## Solutions Engineer
+
+|-|-|
+| Echodyne Corp | August 2022 - Present |
+
 ## Test Engineer
 
 | Employer | Time|
 |-|-|
-| Creation Technology | January 2022* - Present |
+| Creation Technology | January 2022* - August 2022 |
 | Applied Technical Services Corp. | January 2020 - Present|
 
 * Responsible for defining test specifications, carrying out experiments, and providing detailed data-analysis and recommendations to key project stakeholders.
