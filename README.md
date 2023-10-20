@@ -3,9 +3,8 @@ Seattle, WA | [Contact@Corbinheist.com][2]
 
 ## Profile
 
-Engineer driven to solve complex engineering problems with a data-driven methodology.
-
 Proven ability to work independently and autonomously, synthesize complex problems, and deliver results.
+Engineer driven to solve complex engineering problems with a data-driven methodology.
 
 ## Solutions Engineer
 
