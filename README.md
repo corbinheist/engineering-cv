@@ -9,6 +9,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 
 ## Solutions Engineer
 
+| Employer | Time|
 |-|-|
 | Echodyne Corp | August 2022 - Present |
 
