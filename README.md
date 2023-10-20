@@ -50,8 +50,8 @@ Proven ability to work independently and autonomously, synthesize complex proble
 
 |  Roles | Employer | Location | Time |
 |-|-----------------------------------------------|----------------------------|-|
-| Assistant Race Engineer | Meyer Shank Racing (IndyCar and IMSA (NSX GT3)) | Columbus, OH | November 2017 - November 2018 |
-| Performance, Systems, Data, Strategy Engineer | Reference: Client Summary | Oxford, United Kingdom | December 2015 - October 2017 |
+| Race Engineer | Meyer Shank Racing (IndyCar and IMSA (NSX GT3)) | Columbus, OH | November 2017 - November 2018 |
+| Race Engineer | (Freelance) Reference: Client Summary | Oxford, United Kingdom | December 2015 - October 2017 |
 
 * Coordinate performance goals with key stakeholders: Technical Director, Race Engineer, Drivers, Team Owners
 * Conduct Experimental and Deep-Dive Data Analyses and report on Vehicle and Driver Performance
@@ -76,12 +76,12 @@ Proven ability to work independently and autonomously, synthesize complex proble
 
 | Role | Employer | Time |
 |------------------------------------------------|----------------------------|-|
-| Junior Performance Engineer | Greaves Motosport | June 2015 – January 2016 |
+| Performance Engineer | Greaves Motosport | June 2015 – January 2016 |
 | Design Engineer (Summer Placement) | Greaves 3D Engineering  | June 2015- September 2015 |
-| Junior Tyre Technician | Rebellion Racing | June 2015 (24H Le Mans) |
+| Tyre Technician | Rebellion Racing | June 2015 (24H Le Mans) |
 | Fireman & Apprentice | Rebellion Racing | March 2013 (Sebring 12H) |
-| Data Analyst and Track Support | BMW Club Racing | 2011-2013 |
-| Junior Mechanic and Track Support | Korman Autoworks | 2009-2013 |
+| Race Engineer | BMW Club Racing | 2011-2013 |
+| No.2 Mechanic | Korman Autoworks | 2009-2013 |
 
 
 ## Supplemental Qualifications
@@ -99,7 +99,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 | Employer | Role | Location | Time |
 |-|-|-|-|
 | Arc'Teryx Seattle |  Product Guide | Seattle, WA | September 2019 - December 2019|
-| Blue Force Technology | Composite Manufacturing Apprentice | Durham, NC | 2012-2013|
+| Blue Force Technology | Apprentice | Durham, NC | 2012-2013|
 
 ## Education
 
@@ -145,6 +145,7 @@ Proven ability to work independently and autonomously, synthesize complex proble
 
 ### Communication
 
+- Expert Tools for Thought (Obsidian, Logseq, Notion, Roam)
 - Advanced technical writing (Microsoft Office Suite, Latex, PowerPoint, Markdown)
 
 ### Innovation & Creative Thinking
