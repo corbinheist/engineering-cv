@@ -1,18 +1,42 @@
+---
+
+---
 
 Seattle, WA | [Contact@Corbinheist.com][2]
 
 ## Profile
 
-Engineer driven to solve complex engineering problems with a data-driven methodology.
+Corbin is comitted to tackling engineering challenges with a practical and results-oriented mindset. 
+His mission is to leverage his expertise and experience to contribute effectively to engineering projects, ensuring they meet high standards of quality and efficiency. 
+He values collaboration, innovation, and continuous improvement, striving to deliver solutions that make a meaningful impact. 
 
-Proven ability to work independently and autonomously, synthesize complex problems, and deliver results.
+Beyond his professional pursuits, Corbin aims to find joy and inspiration in diverse interests, maintaining a balanced and fulfilling life both inside and outside the engineering realm.
+
+Salary Range: $150,000 - $175,000
+
+## Applications Engineer
+
+| Employer | Time|
+|-|-|
+| Echodyne Corp | August 2022 - Present|
+
+- Go-to-market technical team member: Pre and Post Sales Efforts in a High-Growth Startup
+- Lead and Execute Global Technical Integration efforts of the Echodyne Radar Platformsin the USA and EMEA Regions.
+  - Key Projects with Global Primes and Organizations in the CUAS Space.
+- Architect & Launch Support Program (Software & Support)
+- Integrate Feedback Loops from Customers and Internal Demos using Engineering Project Management tools such as Atlassian Suite
+- Document Internal Knowledge Base: Produce Training and Documentation resources for both Customers and Internal Users.
+- Mentor Junior Members of the Pre & Post Technical Sales Team
+
+**Skills: **
+
 
 ## Test Engineer
 
 | Employer | Time|
 |-|-|
-| Creation Technology | January 2022* - Present |
-| Applied Technical Services Corp. | January 2020 - Present|
+| Creation Technology | January 2022* - August 2022 |
+| Applied Technical Services Corp. | January 2020 - August 2022|
 
 * Responsible for defining test specifications, carrying out experiments, and providing detailed data-analysis and recommendations to key project stakeholders.
 * Manage automation-integrated Tests and coordinate deployment, validation, and Process Control of Test Software and Configuration.
@@ -28,6 +52,9 @@ Proven ability to work independently and autonomously, synthesize complex proble
 * Manage Engineering Projects using Jira, Git. Bootstrapped tools to meet requirements of manufacturing engineering.
 * Undertake significant reverse-engineering of production testing architecture: Test PC's, Test Framework, Software/Hardware Interface, Automation (Allen Bradley PLC) Logic-Flow
 
+**Skills: Data Engieering, SQL, Python, Jupyter Notebooks, Design of Experiment (DoE), Manufacturing Test, ISO-9001, Engineering Process, Engineering Quality, PLC Programming, C++, Hardware-in-the-Loop (HIL)**
+
+
 *Note: Creation Technology acquired Applied Technical Services in January 2022*
 
 ## Software Engineer
@@ -39,6 +66,9 @@ Proven ability to work independently and autonomously, synthesize complex proble
 * Develop Software (.NET) for Motorsport Data Management
 * Support Customer Applications including remote trackside support of tests and races.
 * Test and Debug internal product(s)
+
+**Skills:**
+
 
 ## Race Engineer
 
@@ -56,6 +86,10 @@ Proven ability to work independently and autonomously, synthesize complex proble
   * Responsible for Pre-Race Strategy Development: Fuel Consumption/Strategy, Pit Stop Windows, Track Position Management
 * Collaborate with lead race engineer to implement vehicle configuration changes based on realtime and logged telemetry
 
+**Skills:**
+
+
+
 ### Client Summary
 
 | Teams| Cars| Championships| Season |
@@ -65,6 +99,9 @@ Proven ability to work independently and autonomously, synthesize complex proble
 | Gruppe M Racing | Mercedes AMG GT3 | Blancpain GT Asia (2017 Champions) | 2017 |
 | *Private* | Euroformula F3 | Euroformula F3| 2017 |
 | Greaves Motorsport | Gibson G15 LMP2 / Ligier JSP2 LMP2 | European Le Mans Series (2015 Champions) + Le Mans 24h  | 2015-2016 |
+
+**Skills:**
+
 
 ### Additional Engineering & Motorsport Roles
 
@@ -76,6 +113,8 @@ Proven ability to work independently and autonomously, synthesize complex proble
 | Fireman & Apprentice | Rebellion Racing | March 2013 (Sebring 12H) |
 | Data Analyst and Track Support | BMW Club Racing | 2011-2013 |
 | Junior Mechanic and Track Support | Korman Autoworks | 2009-2013 |
+
+**Skills:**
 
 
 ## Supplemental Qualifications
@@ -122,8 +161,8 @@ Proven ability to work independently and autonomously, synthesize complex proble
 
 ### Data Science and Analysis
 
-- Advanced Data Visualization (Bokeh, Seaborn, Matplotlib)
-- Advanced Data Analytics, Analytics.
+- Advanced Data Visualization (Bokeh, Seaborn, Matplotlib, Plotly)
+- Advanced Data Analytics
 - Advanced Statistics and Mathematics (Linear Algebra, Modeling, Engineering Maths)
 - Intermediate Data Management
 - Proficient Data Mining structured data
@@ -131,19 +170,26 @@ Proven ability to work independently and autonomously, synthesize complex proble
 ### Engineering
 
 - Advanced modeling and simulation
-- optimization, control
+- optimization and control algorithms
 - numerical analysis methods
 - analytical and problem solving
-- project planning management.  
-- Proficient in Engineering Test-fixtures (N-Post Rigs, Damper Dynos, Engine Dynos, Environmental Chambers)
+- technical project planning and management.  
+- Engineering Test-fixtures (N-Post Rigs (Shock & Vibration Testing), Damper Dynos, Engine Dynos, Environmental Chambers)
 
 ### Communication
 
 - Advanced technical writing (Microsoft Office Suite, Latex, PowerPoint, Markdown)
+- Engineering Project Management & Contribution with Atlassian
 
 ### Innovation & Creative Thinking
 
 - improve skills approach to tackle new challenges, seeking advice, mentorship, and criticism to constantly improve, suggest and promote ideas for analysis.
+
+## Outside Work
+
+Corbin maintains a balanced lifestyle through a diverse array of interests, chiefly, Tabletop Gaming, Photography, and Mountain-Sports.
+In 2024 he began competing in Ski-Mountaineering Racing, after 3 years of learning to ski and ski uphill.
+He is a menber of the Samsara Athlete Team, and member of the first cohort of the Wildist Community Ambassador program.
 
 ## References
 
