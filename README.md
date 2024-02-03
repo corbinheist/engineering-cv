@@ -10,9 +10,7 @@ Corbin is comitted to tackling engineering challenges with a practical and resul
 His mission is to leverage his expertise and experience to contribute effectively to engineering projects, ensuring they meet high standards of quality and efficiency. 
 He values collaboration, innovation, and continuous improvement, striving to deliver solutions that make a meaningful impact. 
 
-Beyond his professional pursuits, Corbin aims to find joy and inspiration in diverse interests, maintaining a balanced and fulfilling life both inside and outside the engineering realm.
-
-Salary Range: $150,000 - $175,000
+Salary Range: $165,000 - $185,000
 
 ## Applications Engineer
 
@@ -20,15 +18,15 @@ Salary Range: $150,000 - $175,000
 |-|-|
 | Echodyne Corp | August 2022 - Present|
 
-- Go-to-market technical team member: Pre and Post Sales Efforts in a High-Growth Startup
-- Lead and Execute Global Technical Integration efforts of the Echodyne Radar Platformsin the USA and EMEA Regions.
-  - Key Projects with Global Primes and Organizations in the CUAS Space.
+- Lead and Execute Global Technical Integration efforts of Echodyne Radar Platforms in the USA and EMEA Regions.
+  - Key Projects with Global Primes and Organizations in the C-UAS Domain.
 - Architect & Launch Support Program (Software & Support)
-- Integrate Feedback Loops from Customers and Internal Demos using Engineering Project Management tools such as Atlassian Suite
+- Technical Sales Point of Contact for Integration and Support issues
 - Document Internal Knowledge Base: Produce Training and Documentation resources for both Customers and Internal Users.
 - Mentor Junior Members of the Pre & Post Technical Sales Team
+- Collaborate in Cross-Functional Teams across the Engineering and Sales organizations (Field Testing, Validation & Verification Efforts, Feature Development, Hardware Repairs and Upgrades)
 
-**Skills: **
+**Skills: Supervised Learning, Machine Classification, Python, Jupyter, C++, Systems Integration, Systems Architecture, Troubleshooting, Agile Methodologies, API, Linux (Ubuntu, RedHat), Testing & Development, Operational Deployment**
 
 
 ## Test Engineer
@@ -52,7 +50,7 @@ Salary Range: $150,000 - $175,000
 * Manage Engineering Projects using Jira, Git. Bootstrapped tools to meet requirements of manufacturing engineering.
 * Undertake significant reverse-engineering of production testing architecture: Test PC's, Test Framework, Software/Hardware Interface, Automation (Allen Bradley PLC) Logic-Flow
 
-**Skills: Data Engieering, SQL, Python, Jupyter Notebooks, Design of Experiment (DoE), Manufacturing Test, ISO-9001, Engineering Process, Engineering Quality, PLC Programming, C++, Hardware-in-the-Loop (HIL)**
+**Skills: Data Analysis, Data Engieering, SQL, Python, Jupyter Notebooks, Design of Experiment (DoE), Manufacturing Test, ISO-9001, Engineering Process, Engineering Quality, PLC Programming, C++, Hardware-in-the-Loop (HIL),  Agile Methodologies**
 
 
 *Note: Creation Technology acquired Applied Technical Services in January 2022*
@@ -67,7 +65,7 @@ Salary Range: $150,000 - $175,000
 * Support Customer Applications including remote trackside support of tests and races.
 * Test and Debug internal product(s)
 
-**Skills:**
+**Skills: C++, .NET, Agile Methodologies**
 
 
 ## Race Engineer
@@ -89,7 +87,6 @@ Salary Range: $150,000 - $175,000
 **Skills:**
 
 
-
 ### Client Summary
 
 | Teams| Cars| Championships| Season |
@@ -99,8 +96,6 @@ Salary Range: $150,000 - $175,000
 | Gruppe M Racing | Mercedes AMG GT3 | Blancpain GT Asia (2017 Champions) | 2017 |
 | *Private* | Euroformula F3 | Euroformula F3| 2017 |
 | Greaves Motorsport | Gibson G15 LMP2 / Ligier JSP2 LMP2 | European Le Mans Series (2015 Champions) + Le Mans 24h  | 2015-2016 |
-
-**Skills:**
 
 
 ### Additional Engineering & Motorsport Roles
@@ -156,7 +151,7 @@ Salary Range: $150,000 - $175,000
 - Proficient in C# (.NET Development Environment)
 - Advanced in MATLAB (Symbolic Math Toolbox, GUI)
 - Intermediate in CAD (SolidWorks, Catia (Basic), Autodesk (Basic))
-- Advanced user operating systems (Windows, Linux, MacOS)
+- Advanced operating systems (Windows (Advanced), Linux (Advanced - Ubuntu, RedHat, Mint), MacOS)
 - Proficient in Source Control Frameworks (Git, Subversion)
 
 ### Data Science and Analysis
@@ -174,22 +169,25 @@ Salary Range: $150,000 - $175,000
 - numerical analysis methods
 - analytical and problem solving
 - technical project planning and management.  
-- Engineering Test-fixtures (N-Post Rigs (Shock & Vibration Testing), Damper Dynos, Engine Dynos, Environmental Chambers)
+- Engineering Test-fixtures and Testing (N-Post Rigs (Shock & Vibration Testing), Damper Dynos, Engine Dynos, Environmental Chambers)
 
 ### Communication
 
 - Advanced technical writing (Microsoft Office Suite, Latex, PowerPoint, Markdown)
 - Engineering Project Management & Contribution with Atlassian
+- Slack: Authored Advanced workflows and integrations for Quality of Life Automations and widgets.
 
 ### Innovation & Creative Thinking
 
-- improve skills approach to tackle new challenges, seeking advice, mentorship, and criticism to constantly improve, suggest and promote ideas for analysis.
+- Continuous improvement skills approach to tackle new challenges, seeking advice, and mentorship to constantly improve, suggest and promote ideas.
 
 ## Outside Work
 
 Corbin maintains a balanced lifestyle through a diverse array of interests, chiefly, Tabletop Gaming, Photography, and Mountain-Sports.
-In 2024 he began competing in Ski-Mountaineering Racing, after 3 years of learning to ski and ski uphill.
-He is a menber of the Samsara Athlete Team, and member of the first cohort of the Wildist Community Ambassador program.
+In 2023, he began competing in Ski-Mountaineering Racing, after 3 years of learning to ski and ski uphill.  He has his AIARE-1 Certification, and is working towards his Wilderness Responder, Avalanche Rescue, and AIARE-2 Certifications in the coming year. 
+He plans to run his first marathon distance and Ride his first century in 2024.
+
+He is a menber of the Samsara Athlete Team (Since 2022), Wildist Community Ambassador (Since 2021), and American Alpine Club (Since 2018).
 
 ## References
 
