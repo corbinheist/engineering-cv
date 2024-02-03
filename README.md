@@ -182,7 +182,7 @@ Corbin maintains a balanced lifestyle through a diverse array of interests, chie
 In 2023, he began competing in Ski-Mountaineering Racing, after 3 years of learning to ski and ski uphill.  He has his AIARE-1 Certification, and is working towards his Wilderness Responder, Avalanche Rescue, and AIARE-2 Certifications in the coming year. 
 He plans to run his first marathon distance and Ride his first century in 2024.
 
-He is a menber of the Samsara Athlete Team (Since 2022), Wildist Community Ambassador (Since 2021), and American Alpine Club (Since 2018).
+He is a member of the Samsara Athlete Team (Since 2022), Wildist Community Ambassador (Since 2021), and American Alpine Club (Since 2018).
 
 ## References
 
