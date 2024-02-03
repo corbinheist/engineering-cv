@@ -26,7 +26,7 @@ Salary Range: $165,000 - $185,000
 - Mentor Junior Members of the Pre & Post Technical Sales Team
 - Collaborate in Cross-Functional Teams across the Engineering and Sales organizations (Field Testing, Validation & Verification Efforts, Feature Development, Hardware Repairs and Upgrades)
 
-**Skills: Supervised Learning, Machine Classification, Python, Jupyter, C++, Systems Integration, Systems Architecture, Troubleshooting, Agile Methodologies, API, Linux (Ubuntu, RedHat), Testing & Development, Operational Deployment**
+**Skills: Supervised Learning, Machine Classification, Python, Jupyter, C++, Systems Integration, Systems Architecture, Troubleshooting, Agile Methodologies, API, Linux (Ubuntu, RedHat), Embedded Systems (Linux) , Testing & Development, Operational Deployment, Docker**
 
 
 ## Test Engineer
