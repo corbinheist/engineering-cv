@@ -1,3 +1,6 @@
+lsi: false
+safe: true
+source: /
 theme: minima
 title: Corbin Heist | Engineering CV
 google_analytics: UA-228847421-1
