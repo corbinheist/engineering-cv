@@ -2,15 +2,13 @@
 
 ---
 
-Seattle, WA | [Contact@Corbinheist.com][2]
-
 ## Profile
 
 Corbin is comitted to tackling engineering challenges with a practical and results-oriented mindset. 
 His mission is to leverage his expertise and experience to contribute effectively to engineering projects, ensuring they meet high standards of quality and efficiency. 
 He values collaboration, innovation, and continuous improvement, striving to deliver solutions that make a meaningful impact. 
 
-Salary Range: $165,000 - $185,000
+_Salary Range: $165,000 - $185,000_
 
 ## Applications Engineer
 
@@ -26,8 +24,7 @@ Salary Range: $165,000 - $185,000
 - Mentor Junior Members of the Pre & Post Technical Sales Team
 - Collaborate in Cross-Functional Teams across the Engineering and Sales organizations (Field Testing, Validation & Verification Efforts, Feature Development, Hardware Repairs and Upgrades)
 
-**Skills: Supervised Learning, Machine Classification, Python, Jupyter, C++, Systems Integration, Systems Architecture, Troubleshooting, Agile Methodologies, API, Linux (Ubuntu, RedHat), Embedded Systems (Linux) , Testing & Development, Operational Deployment, Docker**
-
+_Skills: Supervised Learning, Machine Classification, Python, Jupyter, C++, Systems Integration, Systems Architecture, Troubleshooting, Agile Methodologies, API, Linux (Ubuntu, RedHat), Embedded Systems (Linux) , Testing & Development, Operational Deployment, Docker_
 
 ## Test Engineer
 
@@ -50,7 +47,7 @@ Salary Range: $165,000 - $185,000
 * Manage Engineering Projects using Jira, Git. Bootstrapped tools to meet requirements of manufacturing engineering.
 * Undertake significant reverse-engineering of production testing architecture: Test PC's, Test Framework, Software/Hardware Interface, Automation (Allen Bradley PLC) Logic-Flow
 
-**Skills: Data Analysis, Data Engieering, SQL, Python, Jupyter Notebooks, Design of Experiment (DoE), Manufacturing Test, ISO-9001, Engineering Process, Engineering Quality, PLC Programming, C++, Hardware-in-the-Loop (HIL),  Agile Methodologies**
+_Skills: Data Analysis, Data Engieering, SQL, Python, Jupyter Notebooks, Design of Experiment (DoE), Manufacturing Test, ISO-9001, Engineering Process, Engineering Quality, PLC Programming, C++, Hardware-in-the-Loop (HIL),  Agile Methodologies_
 
 
 *Note: Creation Technology acquired Applied Technical Services in January 2022*
@@ -65,7 +62,7 @@ Salary Range: $165,000 - $185,000
 * Support Customer Applications including remote trackside support of tests and races.
 * Test and Debug internal product(s)
 
-**Skills: C++, .NET, Agile Methodologies**
+_Skills: C++, .NET, Agile Methodologies_
 
 
 ## Race Engineer
@@ -84,8 +81,7 @@ Salary Range: $165,000 - $185,000
   * Responsible for Pre-Race Strategy Development: Fuel Consumption/Strategy, Pit Stop Windows, Track Position Management
 * Collaborate with lead race engineer to implement vehicle configuration changes based on realtime and logged telemetry
 
-**Skills:**
-
+_Skills:_
 
 ### Client Summary
 
@@ -109,7 +105,7 @@ Salary Range: $165,000 - $185,000
 | Data Analyst and Track Support | BMW Club Racing | 2011-2013 |
 | Junior Mechanic and Track Support | Korman Autoworks | 2009-2013 |
 
-**Skills:**
+_Skills:_
 
 
 ## Supplemental Qualifications
