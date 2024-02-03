@@ -1,8 +1,7 @@
 ---
-
+location: Seattle, WA
+contact: contact@corbinheist.com
 ---
-
-## Profile
 
 Corbin is comitted to tackling engineering challenges with a practical and results-oriented mindset. 
 His mission is to leverage his expertise and experience to contribute effectively to engineering projects, ensuring they meet high standards of quality and efficiency. 
