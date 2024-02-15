@@ -7,8 +7,6 @@ Corbin is comitted to tackling engineering challenges with a practical and resul
 His mission is to leverage his expertise and experience to contribute effectively to engineering projects, ensuring they meet high standards of quality and efficiency. 
 He values collaboration, innovation, and continuous improvement, striving to deliver solutions that make a meaningful impact. 
 
-_Salary Range: $165,000 - $185,000_
-
 ## Applications Engineer
 
 | Employer | Time|
