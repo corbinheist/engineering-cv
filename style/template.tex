@@ -144,6 +144,7 @@ $endif$
 \begin{center}
   {\fontsize{16}{19}\selectfont\lightfont $if(title)$$title$$endif$}%
   $if(location)$\\[0.15em]{\small $location$}$endif$%
+  $if(phone)$ \enspace{\small\color{black60}\textperiodcentered}\enspace {\small \href{tel:$phone$}{$phone$}}$endif$%
   $if(contact)$ \enspace{\small\color{black60}\textperiodcentered}\enspace {\small \href{mailto:$contact$}{$contact$}}$endif$
 \end{center}
 
