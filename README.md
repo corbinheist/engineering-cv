@@ -1,50 +1,50 @@
 ---
 location: Seattle, WA
+phone: "+1 (336) 803-9230"
 contact: contact@corbinheist.com
 ---
 
-Senior technical leader with 10+ years driving integration engineering delivery and cross-functional coordination on defense radar programs spanning US and EMEA. Manages relationships across prime contractors, government customers, R&D, Product, Sales, and field organizations.
+Senior technical leader with 10+ years in integration engineering — from motorsport to defense radar programs spanning US and EMEA. Leads from the front — coordinates integration efforts, drives pre-sales pipeline, and aligns field feedback with R&D priorities.
 
 ## Integrations Engineer
 
-*Echodyne Corp. | August 2022 - Present*
+*Echodyne Corp. | Kirkland, WA | August 2022 - Present*
 
-**Integration Leadership & Program Coordination:**
-- Lead technical integration of Echodyne's phased-array radar platforms with Kongsberg, Lockheed Martin, Anduril, Moog, and Rheinmetall
-- Manage 5+ concurrent government integration programs (DEVCOM CRADA, RCCTO directed energy, US Army C-UAS)
-- Integration technical lead for multiple Program of Record contenders — 10x RCCTO systems, Norway Frigate, MCMV
-- Primary technical stakeholder for the Kongsberg account — SAIC-Kongsberg Flytrap sled integration (4x EchoShield on CROWS+/RS6, Lithuania 2026) and ongoing pre-sales coordination
-- Consistently exceed SE quota targets through technical pre-sales and program support
+**Program Ownership & Technical Delivery:**
+- Lead technical integration across prime partners (Kongsberg, Moog, MSI, NATO) — drive integration and PoR positioning across CROWS, RCCTO, Norway Frigate, MCMV
+- Manage 5+ concurrent programs: US (DEVCOM CRADA, RCCTO, C-UAS) and international (Norway, NLD, Lithuania, Estonia, UK MoD)
+- Raise the technical bar across the SE team — mentor engineers and define integration standards that scale across accounts
+- Lead radar-to-weapon integrations (AMP-HEL, P-HEL, RS4/6) — low-latency cueing, real-time track handoff, and fire-control-grade data requirements
+- Lead system commissioning, live demos, and field validation at NATO and coalition exercises across 6+ countries
 
-**Standards, Architecture & Technical Documentation:**
-- Authored sensor-to-C2 integration standards reference spanning SAPIENT, ASTERIX, Cursor on Target, Link 16, and FAAD C2
-- Drove NATO SAPIENT (BSI Flex 335) adoption; coordinated 70+ coalition connections and 200+ feedback forms at TIE-24
-- Designed integration architectures: maritime, vehicle-mounted (JLTV, Stryker, ISV), and fixed-site
-- Author and maintain customer-facing and internal integration documentation: dual-format guides (RadarIO + JSON-RPC), API references, and training resources
+**Pre-Sales, BD & Standards:**
+- Exceed SE quota targets across FY23–25 — drive technical pre-sales across Kongsberg, RCCTO, and international accounts
+- Author sensor-to-C2 integration standards reference (SAPIENT, ASTERIX, CoT, Link 16, FAAD C2) — drive SAPIENT adoption across 15+ C2 systems at TIE-24
+- Represent Echodyne to NCI Agency JISR — co-own NATO interoperability exercises and coalition C2 standards compliance
+- Design integration architectures across maritime, vehicle-mount (JLTV, Stryker, ISV), and fixed-site — adopted as baselines across partner programs
 
-**Directed Energy & Emerging Programs:**
-- Technical lead for radar-to-DE weapon integration on RCCTO AMP-HEL and P-HEL, establishing repeatable DE-SHORAD integration patterns
-- Led international deployments of the RES architecture at exercises in Estonia, Kuwait, Portugal, Norway, Germany, Netherlands
+**Field Engineering & Cross-Functional Feedback:**
+- Drive field-to-product feedback loop — field priorities directly shape FW roadmap (kinematics handling, maritime environmental data) and EchoWare product direction
+- Author integration guides, API references, and validation checklists — enable partners to self-serve from hardware connection to first track
 
 ## Test Engineer
 
-*Creation Technology / Applied Technical Services Corp. | January 2020 - August 2022*
+*Creation Technologies | Burnaby, BC | January 2020 - August 2022*
 
 - Drove key throughput metric (RTY) from ~72% to ~85% through systematic test process improvements at $35M ISO 9001 production facility
-- Reverse-engineered production test architecture end-to-end: test PCs, framework, SW/HW interfaces, PLC automation
+- Reverse-engineered production test architecture end-to-end: test PCs, framework, SW/HW interfaces, and PLC automation
 - Built test data analysis tooling in Python, SQL, and C# — automated engineering reporting via Jupyter Notebooks
 
 ## Race Engineer
 
-*Meyer Shank Racing (IndyCar/IMSA) and multiple international teams (Le Mans 24h, WEC, Blancpain GT) | December 2015 - November 2018*
+*Freelance (Contract) | December 2015 - November 2018*
 
-- Led race strategy analysis: fuel consumption modeling, pit stop windows, track position management
-- Conducted deep-dive data analysis on vehicle and driver performance; developed engineering dashboards and BoP statistical analysis
-- Coordinated across technical and non-technical stakeholders — engineering, drivers, technical director, team owners, and series officials
+- Race engineer on championship-winning programs — Meyer Shank Racing (IndyCar/IMSA), Greaves Motorsport, Audi Sport, and GruppeM (Le Mans 24h, WEC, Blancpain GT)
+- Analyzed vehicle and driver performance data (engineering dashboards, BoP analysis) — led real-time race strategy calls across engineering, drivers, and team management
 
 ## Education
 
-| Degree | Institution | Location | Dates-Attended |
+| Degree | Institution | Location | Dates |
 |:----|:----|:----|:----|
 | BEng Motorsport Engineering | Oxford Brookes University | Oxford, United Kingdom | September 2013 - December 2017 |
 | Associates of Science (Motorsport Technology) | Forsyth Technical Community College | Winston-Salem, NC | September 2011 - May 2013 |
@@ -63,6 +63,4 @@ Senior technical leader with 10+ years driving integration engineering delivery 
 
 ### Infrastructure & Networking
 
-- Proxmox virtualization, TrueNAS Scale, Docker containerized service deployment, DigitalOcean cloud infrastructure
-- Network architecture: Ubiquiti (EdgeRouter, UniFi), 10GbE, VLANs, DNS/DHCP, Tailscale VPN
-- Linux server administration (Ubuntu, bare-metal and VM)
+- Linux server administration, networking (VLANs, DNS/DHCP), Proxmox virtualization, Tailscale VPN
