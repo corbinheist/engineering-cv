@@ -12,19 +12,19 @@ Senior technical leader with 10+ years in integration engineering — from motor
 
 **Program Ownership & Technical Delivery:**
 - Lead technical integration across prime partners (Kongsberg, Moog, MSI, NATO) — drive integration and PoR positioning across CROWS, RCCTO, Norway Frigate, MCMV
-- Manage 5+ concurrent programs: US (DEVCOM CRADA, RCCTO, C-UAS) and international (Norway, NLD, Lithuania, Estonia, UK MoD)
-- Raise the technical bar across the SE team — mentor engineers and define integration standards that scale across accounts
+- Manage 5+ concurrent programs across US (DEVCOM CRADA, RCCTO, C-UAS) and EMEA (Norway, NLD, Lithuania, Estonia, UK MoD) — co-build integration playbook scaling into international accounts
+- Raise the technical bar across the SE team — mentor engineers, define integration standards that scale across accounts, and act as bar raiser in SE hiring loops
 - Lead radar-to-weapon integrations (AMP-HEL, P-HEL, RS4/6) — low-latency cueing, real-time track handoff, and fire-control-grade data requirements
 - Lead system commissioning, live demos, and field validation at NATO and coalition exercises across 6+ countries
 
 **Pre-Sales, BD & Standards:**
 - Exceed SE quota targets across FY23–25 — drive technical pre-sales across Kongsberg, RCCTO, and international accounts
-- Author sensor-to-C2 integration standards reference (SAPIENT, ASTERIX, CoT, Link 16, FAAD C2) — drive SAPIENT adoption across 15+ C2 systems at TIE-24
+- Author sensor-to-C2 integration standards reference (SAPIENT, ASTERIX, CoT, Link 16, FAAD C2) — adopted across partner programs and coalition exercises
 - Represent Echodyne to NCI Agency JISR — co-own NATO interoperability exercises and coalition C2 standards compliance
 - Design integration architectures across maritime, vehicle-mount (JLTV, Stryker, ISV), and fixed-site — adopted as baselines across partner programs
 
 **Field Engineering & Cross-Functional Feedback:**
-- Drive field-to-product feedback loop — field priorities directly shape FW roadmap (kinematics handling, maritime environmental data) and EchoWare product direction
+- Drive field-to-product feedback loop — field priorities directly shape product roadmap (kinematics handling, maritime environmental data) and EchoWare product direction
 - Author integration guides, API references, and validation checklists — enable partners to self-serve from hardware connection to first track
 
 ## Test Engineer

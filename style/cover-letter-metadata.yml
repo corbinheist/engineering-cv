@@ -1,0 +1,11 @@
+title: "Corbin Heist"
+fontsize: 10pt
+geometry:
+  - top=0.7in
+  - left=0.75in
+  - right=0.75in
+  - bottom=0.9in
+  - footskip=0.4in
+header-includes:
+  - \setlength{\parskip}{0.55em plus 0.1em minus 0.05em}
+  - \setstretch{1.12}

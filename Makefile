@@ -4,10 +4,14 @@
 OUTPUT_DIR := _outputs
 PDF        := $(OUTPUT_DIR)/HEIST_Corbin_Resume.pdf
 HTML       := $(OUTPUT_DIR)/HEIST_Corbin_Resume.html
+CL_PDF     := $(OUTPUT_DIR)/HEIST_Corbin_CoverLetter.pdf
 
 SRC        := README.md
 TEMPLATE   := style/template.tex
 METADATA   := style/metadata.yml
+
+CL_SRC     := cover-letter.md
+CL_META    := style/cover-letter-metadata.yml
 
 PANDOC_FLAGS := --pdf-engine=xelatex \
                --template=$(TEMPLATE) \
@@ -19,7 +23,7 @@ PANDOC_FLAGS := --pdf-engine=xelatex \
 # omits these after **bold header:** lines. This fixes that without modifying the source.
 PREPROCESS := perl style/preprocess.pl
 
-.PHONY: pdf open clean html
+.PHONY: pdf open clean html cover-letter
 
 pdf: $(PDF)
 
@@ -36,6 +40,13 @@ html: $(HTML)
 $(HTML): $(SRC) $(METADATA) style/preprocess.pl
 	@mkdir -p $(OUTPUT_DIR)
 	$(PREPROCESS) $(SRC) | pandoc --metadata-file=$(METADATA) --shift-heading-level-by=-1 --standalone -o $@
+	@echo "Built: $@"
+
+cover-letter: $(CL_PDF)
+
+$(CL_PDF): $(CL_SRC) $(TEMPLATE) $(CL_META)
+	@mkdir -p $(OUTPUT_DIR)
+	pandoc --pdf-engine=xelatex --template=$(TEMPLATE) --metadata-file=$(CL_META) -o $@ $(CL_SRC)
 	@echo "Built: $@"
 
 clean:

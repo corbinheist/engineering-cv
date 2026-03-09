@@ -137,6 +137,11 @@ $if(csl-refs)$
 \newenvironment{CSLReferences}[2]{}{}
 $endif$
 
+%%% Per-document overrides (cover letters, etc.)
+$for(header-includes)$
+$header-includes$
+$endfor$
+
 %% ============================================================
 \begin{document}
 
