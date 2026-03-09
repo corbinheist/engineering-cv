@@ -1,2 +1,6 @@
 
 *.docx
+
+# Build artifacts
+_outputs/*.pdf
+_outputs/*.html
