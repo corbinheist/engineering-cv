@@ -4,7 +4,7 @@ phone: "+1 (336) 803-9230"
 contact: contact@corbinheist.com
 ---
 
-Integration engineer. Takes a sensor, a weapon, and a C2 system, and makes them work as one kill chain on real hardware at the range. 10 years across motorsport, production test, and defense radar. Depth in moving-platform kinematics, INS and GNSS-denied navigation, fire-control interfaces, and tactical datalinks. Writes the middleware and adapters the integration runs on, including code a tier-1 prime is now building into its own fire-control product.
+Integration engineer. 10 years from vehicle dynamics simulation to trackside performance and race strategy, through production test for VR electronics, into radar and weapon systems. Each stage put a design in front of real hardware on a schedule that would not move. Now makes a sensor, a weapon, and a C2 system work as one kill chain at the range, with depth in moving-platform kinematics, INS and GNSS-denied navigation, fire-control interfaces, and tactical datalinks.
 
 ## Integrations Engineer, Field Systems Architecture
 
@@ -37,13 +37,13 @@ Created this role to make Echodyne radar work inside a prime contractor's weapon
 
 *Creation Technologies | Burnaby, BC | January 2020 - August 2022*
 
-- Raised rolled throughput yield from ~72% to ~85% at a $35M ISO 9001 facility. Reverse-engineered the full production test architecture, and built the analysis tools in Python, SQL, and C#.
+- Raised rolled throughput yield from ~72% to ~85% at a $35M ISO 9001 facility building high-end VR electronics. Reverse-engineered the full production test architecture, and built the analysis tools in Python, SQL, and C#.
 
 ## Race Engineer
 
 *Freelance | December 2015 - November 2018*
 
-Race engineer on championship-winning programs in IndyCar, IMSA, WEC, and Blancpain GT, including the Le Mans 24h. Built real-time analysis workflows and led strategy calls under time pressure.
+Race engineer on championship-winning programs in IndyCar, IMSA, WEC, and Blancpain GT, including the Le Mans 24h. Built vehicle performance models and real-time analysis workflows in MATLAB and Python, and led strategy calls under time pressure.
 
 ## Education
 
