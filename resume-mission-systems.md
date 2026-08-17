@@ -14,9 +14,9 @@ Created this role to make Echodyne radar work inside a prime contractor's weapon
 
 **Kill chain and weapon integration:**
 
-- Delivered the first radar-track-to-30mm kill on the AMP-V program. The system is now fielded with an operational US Army unit.
+- Delivered the first radar-track-to-30mm kill for a ground combat vehicle. The system is now fielded with an operational unit.
 - Integrated EchoShield with weapon systems across six live-fire campaigns in 2026 (US, Norway, Lithuania, Switzerland). EchoShield is now the default C-UAS radar on all three remote weapon station lines of a major European prime.
-- Built first-of-kind integrations: EchoShield on a NATO frigate, with fire control at sea and on-the-move kinematics 20 m above the waterline; radar-to-high-energy-laser handoff (DE-SHORAD/JLTV); a six-radar maritime C-UAS array; a four-radar MSHORAD Stryker bridged to a third-party C2 platform; and FAAD C2 high-side integration across a data diode.
+- Built first-of-kind integrations: EchoShield on a NATO frigate, with fire control at sea and on-the-move kinematics 20 m above the waterline; radar-to-high-energy-laser handoff on a tactical wheeled vehicle; a six-radar maritime C-UAS array; a four-radar short-range air defense vehicle bridged to a third-party C2 platform; and FAAD C2 high-side integration across a data diode.
 - Fielded EchoShield as the flagship radar at a 23-nation demonstration, integrated into multiple weapon systems. Delivered a shared COP and BMS across five or more vehicles.
 
 **Mission software and field tooling (Rust):**
