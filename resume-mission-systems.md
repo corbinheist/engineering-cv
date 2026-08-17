@@ -4,7 +4,7 @@ phone: "+1 (336) 803-9230"
 contact: contact@corbinheist.com
 ---
 
-Integration engineer. 10 years on systems that get one attempt. Race weekends, then a production test floor, now live-fire ranges with radar cued to a weapon. Builds the Rust middleware and field tooling the integration depends on, and is usually the only engineer on site when it runs.
+Integration engineer. Takes a sensor, a weapon, and a C2 system, and makes them work as one kill chain on real hardware at the range. 10 years across motorsport, production test, and defense radar. Depth in moving-platform kinematics, INS and GNSS-denied navigation, fire-control interfaces, and tactical datalinks. Writes the middleware and adapters the integration runs on, including code a tier-1 prime is now building into its own fire-control product.
 
 ## Integrations Engineer, Field Systems Architecture
 
@@ -28,8 +28,8 @@ Created this role to make Echodyne radar work inside a prime contractor's weapon
 
 **Test execution and customers:**
 
-- Found the cause of field failures at every layer: firmware, container networking, power (battery brownout under fire), and mechanical misalignment.
-- Continuing technical contact for 8 prime contractors across the US and Europe. Represent Echodyne at NATO interoperability bodies (SAPIENT, ASTERIX, Cursor on Target, Link 16).
+- Find the cause of field failures at every layer: firmware, container networking, power (battery brownout under fire), and mechanical misalignment.
+- Own the technical relationship with 8 prime contractors across the US and Europe. Represent Echodyne at NATO interoperability bodies (SAPIENT, ASTERIX, Cursor on Target, Link 16).
 - Report adoption blockers and deployment priorities to the product team as a ranked backlog. Deliver integrations ahead of the internal roadmap.
 - Write the integration guides and validation checklists that take a partner from hardware connection to first track.
 
