@@ -22,13 +22,13 @@ Created this role to make Echodyne radar work inside a prime contractor's weapon
 **Mission software and field tooling (Rust):**
 
 - Built a five-tool radar middleware and capture suite: protocol parser, edge tap, command mirror, track-handoff engine, and mission-data recorder. It runs on customer hardware at every 2026 campaign and presents the radar interface unchanged to the downstream C2 system.
-- Wrote the integration adapter that a tier-1 prime contractor is now building into its fire-control ICS for a national program.
+- Wrote the integration adapter that a tier-1 prime contractor is now building into its COP Integrated Fire Control System for a national program.
 - Ported vendor radar libraries to ARM at the range, mid-campaign, on Jetson-class vehicle compute. Built the capture and analysis tools used to verify sensor performance and find the cause of field failures.
 - Configured moving-platform kinematics: dual-INS installations (Boreas D90, Chimera LVS, eTALIN-II, Sigma 40), mount alignment, pose calibration, and GNSS-denied behavior.
 
 **Test execution and customers:**
 
-- Found the cause of field failures at every layer: firmware, container networking, power (battery brownout under fire), and mechanical misalignment. Campaign schedules allow no downtime.
+- Found the cause of field failures at every layer: firmware, container networking, power (battery brownout under fire), and mechanical misalignment.
 - Continuing technical contact for eight prime contractors across the US and Europe. Represent Echodyne at NATO interoperability bodies (SAPIENT, ASTERIX, Cursor on Target, Link 16).
 - Report adoption blockers and deployment priorities to the product team as a ranked backlog. Deliver integrations ahead of the internal roadmap.
 - Write the integration guides and validation checklists that take a partner from hardware connection to first track. President's Club 2025 and 2026.
