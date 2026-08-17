@@ -52,3 +52,20 @@ $(CL_PDF): $(CL_SRC) $(TEMPLATE) $(CL_META)
 clean:
 	rm -f $(OUTPUT_DIR)/*.pdf $(OUTPUT_DIR)/*.html
 	@echo "Cleaned build artifacts"
+
+# ============================================================
+# Mission systems cut — weapon integration and field software
+# Unbranded template: no Echodyne footer on an outbound resume.
+# ============================================================
+MS_SRC  := resume-mission-systems.md
+MS_PDF  := $(OUTPUT_DIR)/HEIST_Corbin_Resume_MissionSystems.pdf
+MS_TMPL := style/template-clean.tex
+
+.PHONY: mission-systems
+
+mission-systems: $(MS_PDF)
+
+$(MS_PDF): $(MS_SRC) $(MS_TMPL) $(METADATA) style/preprocess.pl
+	@mkdir -p $(OUTPUT_DIR)
+	$(PREPROCESS) $(MS_SRC) | pandoc --pdf-engine=xelatex --template=$(MS_TMPL) --metadata-file=$(METADATA) --shift-heading-level-by=-1 -o $@
+	@echo "Built: $@"
