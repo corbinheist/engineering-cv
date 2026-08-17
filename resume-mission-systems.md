@@ -4,7 +4,7 @@ phone: "+1 (336) 803-9230"
 contact: contact@corbinheist.com
 ---
 
-10 years from vehicle performance simulation to trackside performance and race strategy, through production test for VR electronics, into radar and weapon systems. Each stage put a design in front of real hardware on a schedule that would not move. Now makes a sensor, a weapon, and a C2 system work as one kill chain at the range, with depth in moving-platform kinematics, INS integration, GNSS-denied operation, fire-control interfaces, and tactical datalinks.
+10 years from vehicle performance simulation to trackside performance and race strategy, through production test for VR electronics, into radar and weapon systems. Every stage tested a design against real hardware to a fixed date. Now makes a sensor, a weapon, and a C2 system work as one kill chain at the range, with depth in moving-platform kinematics, INS integration, GNSS-denied operation, fire-control interfaces, and tactical datalinks.
 
 ## Integrations Engineer, Field Systems Architecture
 
@@ -14,17 +14,17 @@ Created this role to make Echodyne radar work inside a prime contractor's weapon
 
 **Kill chain and weapon integration:**
 
-- Delivered the program's first radar-track-to-30mm kill on a ground combat vehicle. That radar-to-weapon configuration is now fielded with an operational unit.
+- Delivered the first radar-track-to-30mm kill on a ground combat vehicle. That radar-to-weapon configuration is now fielded to an operational unit.
 - Integrated EchoShield with weapon systems across 6 live-fire campaigns in 2026 (US, Norway, Lithuania, Switzerland). EchoShield is now the default C-UAS radar on all 3 remote weapon station lines of a major European prime.
-- Built first-of-kind integrations. EchoShield on a NATO frigate, with fire control at sea and moving-platform kinematics for a mount 20 m above the waterline. Radar-to-high-energy-laser handoff on a tactical wheeled vehicle, a 6-radar maritime C-UAS array, a 4-radar short-range air defense vehicle bridged to a third-party C2 platform, and FAAD C2 high-side integration across a data diode.
+- Built first-of-kind integrations. EchoShield on a NATO frigate, with fire control at sea and moving-platform kinematics for a mount 20 m above the waterline. Radar-to-high-energy-laser handoff on a tactical wheeled vehicle, a 6-radar maritime C-UAS array, a 4-radar short-range air defense vehicle bridged to a third-party C2 system, and FAAD C2 high-side integration across a data diode.
 - Fielded EchoShield as the flagship radar at a 23-nation demonstration, integrated into multiple weapon systems. Delivered a shared COP and BMS across 5 or more vehicles.
+- Resolved moving-platform kinematics across dual-INS installations (Boreas D90, Chimera LVS, eTALIN-II, Sigma 40): mount alignment, pose calibration, and GNSS-denied operation.
 
 **Mission software and field tooling (Rust):**
 
 - Built a 5-tool radar middleware and capture suite: protocol parser, edge tap, command mirror, track-handoff engine, and mission-data recorder. The suite runs on customer hardware at every 2026 campaign and presents the radar interface unchanged to the downstream C2 system.
 - Wrote the integration adapter that a tier-1 prime contractor is now building into its COP Integrated Fire Control System for a national program.
 - Ported vendor radar libraries to ARM at the range, mid-campaign, on Jetson-class vehicle compute. Built the capture and analysis tools used to verify sensor performance and find the cause of field failures.
-- Configured moving-platform kinematics: dual-INS installations (Boreas D90, Chimera LVS, eTALIN-II, Sigma 40), mount alignment, pose calibration, and GNSS-denied operation.
 
 **Test execution and customers:**
 
@@ -56,7 +56,7 @@ Race engineer in IndyCar, IMSA, WEC, and Blancpain GT, including the Le Mans 24h
 
 **Kill chain and effectors:** radar-to-weapon integration, fire-control interfaces, track handoff and cueing, covariance, remote weapon stations, high-energy laser, FAAD C2
 
-**Software:** Rust (systems services, binary wire protocols, real-time capture), Python (Pandas, NumPy, Jupyter), TypeScript, REST APIs (OpenAPI/Swagger), JSON-RPC, SQL, Claude Code, MCP
+**Software:** Rust (systems services, binary wire protocols, real-time capture), Python (Pandas, NumPy, Jupyter), TypeScript, REST APIs (OpenAPI/Swagger), JSON-RPC, SQL. Agentic development with Claude Code and MCP
 
 **Navigation and platforms:** INS and kinematics (Boreas D90, Chimera LVS, eTALIN-II, Sigma 40), mount alignment, pose calibration, GNSS-denied operation, Jetson-class vehicle compute, embedded ARM Linux, Docker, Silvus mesh, Starlink, VLANs
 
