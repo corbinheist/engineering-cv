@@ -4,7 +4,7 @@ phone: "+1 (336) 803-9230"
 contact: contact@corbinheist.com
 ---
 
-Integration engineer. 10 years from vehicle dynamics simulation to trackside performance and race strategy, through production test for VR electronics, into radar and weapon systems. Each stage put a design in front of real hardware on a schedule that would not move. Now makes a sensor, a weapon, and a C2 system work as one kill chain at the range, with depth in moving-platform kinematics, INS and GNSS-denied navigation, fire-control interfaces, and tactical datalinks.
+Integration engineer. 10 years from vehicle performance simulation to trackside performance and race strategy, through production test for VR electronics, into radar and weapon systems. Each stage put a design in front of real hardware on a schedule that would not move. Now makes a sensor, a weapon, and a C2 system work as one kill chain at the range, with depth in moving-platform kinematics, INS and GNSS-denied navigation, fire-control interfaces, and tactical datalinks.
 
 ## Integrations Engineer, Field Systems Architecture
 
@@ -43,7 +43,7 @@ Created this role to make Echodyne radar work inside a prime contractor's weapon
 
 *Freelance | December 2015 - November 2018*
 
-Race engineer on championship-winning programs in IndyCar, IMSA, WEC, and Blancpain GT, including the Le Mans 24h. Built vehicle performance models and real-time analysis workflows in MATLAB and Python, and led strategy calls under time pressure.
+Race engineer on championship-winning programs in IndyCar, IMSA, WEC, and Blancpain GT, including the Le Mans 24h. Built LMP2 and GT3 vehicle performance models and real-time analysis workflows in MATLAB and Python, and led strategy calls under time pressure.
 
 ## Education
 
