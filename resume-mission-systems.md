@@ -4,7 +4,7 @@ phone: "+1 (336) 803-9230"
 contact: contact@corbinheist.com
 ---
 
-Integration engineer. The job has been the same for 10 years: take a system that has to work in the field, and make it work there, usually as the only engineer on site. Motorsport race engineering, then production test, now radar and weapon integration. Writes the Rust middleware and field tooling that the integration runs on.
+Integration engineer. 10 years on systems that get one attempt. Race weekends, then a production test floor, now live-fire ranges with radar cued to a weapon. Builds the Rust middleware and field tooling the integration depends on, and is usually the only engineer on site when it runs.
 
 ## Integrations Engineer, Field Systems Architecture
 
