@@ -31,7 +31,7 @@ Created this role to make Echodyne radar work inside a prime contractor's weapon
 - Found the cause of field failures at every layer: firmware, container networking, power (battery brownout under fire), and mechanical misalignment.
 - Continuing technical contact for eight prime contractors across the US and Europe. Represent Echodyne at NATO interoperability bodies (SAPIENT, ASTERIX, Cursor on Target, Link 16).
 - Report adoption blockers and deployment priorities to the product team as a ranked backlog. Deliver integrations ahead of the internal roadmap.
-- Write the integration guides and validation checklists that take a partner from hardware connection to first track. President's Club 2025 and 2026.
+- Write the integration guides and validation checklists that take a partner from hardware connection to first track.
 
 ## Test Engineer
 
