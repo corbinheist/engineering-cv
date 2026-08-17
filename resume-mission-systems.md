@@ -4,9 +4,9 @@ phone: "+1 (336) 803-9230"
 contact: contact@corbinheist.com
 ---
 
-Integration engineer for radar and weapon systems. Ten years in the field, from motorsport to defense radar. Sole Echodyne engineer at the range for six live-fire campaigns across four countries in 2026, integrating EchoShield with weapon systems from four tier-1 prime contractors. Writes the Rust middleware and field tooling those integrations run on.
+Integration engineer for radar and weapon systems. 10 years in the field, from motorsport to defense radar. Sole Echodyne engineer at the range for 6 live-fire campaigns across 4 countries in 2026, integrating EchoShield with weapon systems from 4 tier-1 prime contractors. Writes the Rust middleware and field tooling those integrations run on.
 
-## Integrations Engineer — Field Systems Architecture
+## Integrations Engineer, Field Systems Architecture
 
 *Echodyne Corp. | Kirkland, WA | August 2022 - Present*
 
@@ -15,13 +15,13 @@ Created this role to make Echodyne radar work inside a prime contractor's weapon
 **Kill chain and weapon integration:**
 
 - Delivered the first radar-track-to-30mm kill for a ground combat vehicle. The system is now fielded with an operational unit.
-- Integrated EchoShield with weapon systems across six live-fire campaigns in 2026 (US, Norway, Lithuania, Switzerland). EchoShield is now the default C-UAS radar on all three remote weapon station lines of a major European prime.
-- Built first-of-kind integrations: EchoShield on a NATO frigate, with fire control at sea and on-the-move kinematics 20 m above the waterline; radar-to-high-energy-laser handoff on a tactical wheeled vehicle; a six-radar maritime C-UAS array; a four-radar short-range air defense vehicle bridged to a third-party C2 platform; and FAAD C2 high-side integration across a data diode.
-- Fielded EchoShield as the flagship radar at a 23-nation demonstration, integrated into multiple weapon systems. Delivered a shared COP and BMS across five or more vehicles.
+- Integrated EchoShield with weapon systems across 6 live-fire campaigns in 2026 (US, Norway, Lithuania, Switzerland). EchoShield is now the default C-UAS radar on all 3 remote weapon station lines of a major European prime.
+- Built first-of-kind integrations: EchoShield on a NATO frigate, with fire control at sea and on-the-move kinematics 20 m above the waterline; radar-to-high-energy-laser handoff on a tactical wheeled vehicle; a 6-radar maritime C-UAS array; a 4-radar short-range air defense vehicle bridged to a third-party C2 platform; and FAAD C2 high-side integration across a data diode.
+- Fielded EchoShield as the flagship radar at a 23-nation demonstration, integrated into multiple weapon systems. Delivered a shared COP and BMS across 5 or more vehicles.
 
 **Mission software and field tooling (Rust):**
 
-- Built a five-tool radar middleware and capture suite: protocol parser, edge tap, command mirror, track-handoff engine, and mission-data recorder. It runs on customer hardware at every 2026 campaign and presents the radar interface unchanged to the downstream C2 system.
+- Built a 5-tool radar middleware and capture suite: protocol parser, edge tap, command mirror, track-handoff engine, and mission-data recorder. It runs on customer hardware at every 2026 campaign and presents the radar interface unchanged to the downstream C2 system.
 - Wrote the integration adapter that a tier-1 prime contractor is now building into its COP Integrated Fire Control System for a national program.
 - Ported vendor radar libraries to ARM at the range, mid-campaign, on Jetson-class vehicle compute. Built the capture and analysis tools used to verify sensor performance and find the cause of field failures.
 - Configured moving-platform kinematics: dual-INS installations (Boreas D90, Chimera LVS, eTALIN-II, Sigma 40), mount alignment, pose calibration, and GNSS-denied behavior.
@@ -29,7 +29,7 @@ Created this role to make Echodyne radar work inside a prime contractor's weapon
 **Test execution and customers:**
 
 - Found the cause of field failures at every layer: firmware, container networking, power (battery brownout under fire), and mechanical misalignment.
-- Continuing technical contact for eight prime contractors across the US and Europe. Represent Echodyne at NATO interoperability bodies (SAPIENT, ASTERIX, Cursor on Target, Link 16).
+- Continuing technical contact for 8 prime contractors across the US and Europe. Represent Echodyne at NATO interoperability bodies (SAPIENT, ASTERIX, Cursor on Target, Link 16).
 - Report adoption blockers and deployment priorities to the product team as a ranked backlog. Deliver integrations ahead of the internal roadmap.
 - Write the integration guides and validation checklists that take a partner from hardware connection to first track.
 
