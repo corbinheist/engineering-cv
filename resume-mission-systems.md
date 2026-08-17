@@ -4,7 +4,7 @@ phone: "+1 (336) 803-9230"
 contact: contact@corbinheist.com
 ---
 
-Integration engineer for radar and weapon systems. 10 years in the field, from motorsport to defense radar. Sole Echodyne engineer at the range for 6 live-fire campaigns across 4 countries in 2026, integrating EchoShield with weapon systems from 4 tier-1 prime contractors. Writes the Rust middleware and field tooling those integrations run on.
+Integration engineer. The job has been the same for 10 years: take a system that has to work in the field, and make it work there, usually as the only engineer on site. Motorsport race engineering, then production test, now radar and weapon integration. Writes the Rust middleware and field tooling that the integration runs on.
 
 ## Integrations Engineer, Field Systems Architecture
 
